@@ -12,7 +12,7 @@ on:
   schedule:
     # Ogni 10 minuti, lun-ven. Lo script controlla anche che il mercato sia aperto.
     # Con repo pubblico puoi cambiare */10 in */5.
-    - cron: "*/10 9-16 * * 1-5"
+    - cron: "*/5 9-16 * * 1-5"
       timezone: "America/New_York"
 
 permissions:
