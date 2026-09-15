@@ -1,0 +1,38 @@
+name: Test Alpaca Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica movers reali da Alpaca
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+        run: |
+          curl -fsS \
+            -H "APCA-API-KEY-ID: $ALPACA_API_KEY" \
+            -H "APCA-API-SECRET-KEY: $ALPACA_SECRET_KEY" \
+            "https://data.alpaca.markets/v1beta1/screener/stocks/movers?top=10" \
+            -o movers.json
+
+      - name: Mostra i top gainers
+        run: |
+          python - <<'PY'
+          import json
+
+          with open("movers.json") as f:
+              data = json.load(f)
+
+          print("")
+          print("=== TOP GAINERS ALPACA ===")
+          for x in data.get("gainers", []):
+              print(
+                  f"{x.get('symbol'):6} "
+                  f"price={x.get('price')} "
+                  f"change={x.get('percent_change')}%"
+              )
+          PY
