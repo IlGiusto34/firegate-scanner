@@ -44,6 +44,13 @@ jobs:
       - name: Installa dipendenze
         run: pip install -r requirements_crypto.txt
 
+      - name: Verifica sintassi scanner
+        run: |
+          python -m py_compile crypto_scanner.py
+          echo "Syntax OK"
+          wc -l crypto_scanner.py
+          sha256sum crypto_scanner.py
+
       - name: Esegui crypto scanner
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -70,6 +77,18 @@ jobs:
         if: always()
         run: |
           git config user.name "firegate-crypto-scanner"
+          git config user.email "firegate-crypto-scanner@users.noreply.github.com"
+          touch crypto_alerts_state.json
+          git add crypto_alerts_state.json
+
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da salvare."
+            exit 0
+          fi
+
+          git commit -m "Update crypto scanner state [skip ci]"
+          git pull --rebase
+          git push
           git config user.email "firegate-crypto-scanner@users.noreply.github.com"
           touch crypto_alerts_state.json
           git add crypto_alerts_state.json
