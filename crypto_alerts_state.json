@@ -1,4 +1,16 @@
 {
+  "NEAR": {
+    "price": 2.5525,
+    "product_id": "NEAR-USD",
+    "score": 13.25,
+    "time": "2026-09-16T18:49:00.064360+00:00"
+  },
+  "XLM": {
+    "price": 0.179517,
+    "product_id": "XLM-USD",
+    "score": 10.0,
+    "time": "2026-09-16T18:49:00.594463+00:00"
+  },
   "ZEC": {
     "price": 1268.86,
     "product_id": "ZEC-USD",
