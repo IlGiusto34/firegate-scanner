@@ -107,6 +107,15 @@
     "target_upside": 23.026315789473696,
     "updated": "2026-09-17"
   },
+  "HLN": {
+    "analyst_count": 5,
+    "analyst_score": 2.25,
+    "market_cap": 41315683175.91269,
+    "recommendation": "buy",
+    "target": 11.994,
+    "target_upside": 27.663650878126656,
+    "updated": "2026-09-17"
+  },
   "HYG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
