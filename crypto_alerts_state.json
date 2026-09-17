@@ -5,6 +5,18 @@
     "score": 11.35,
     "time": "2026-09-16T23:25:14.292275+00:00"
   },
+  "BTC": {
+    "price": 76851.9,
+    "product_id": "BTC-USD",
+    "score": 14.0,
+    "time": "2026-09-17T12:23:41.934341+00:00"
+  },
+  "ETH": {
+    "price": 2455.31,
+    "product_id": "ETH-USD",
+    "score": 14.0,
+    "time": "2026-09-17T12:23:42.275434+00:00"
+  },
   "HYPE": {
     "price": 79.9,
     "product_id": "HYPE-USD",
