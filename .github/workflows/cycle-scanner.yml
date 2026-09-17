@@ -1,0 +1,94 @@
+name: FireGate Cycle Scanner
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_telegram:
+        description: "Invia AddFiregate AMD per test"
+        required: false
+        default: false
+        type: boolean
+      dry_run:
+        description: "Analizza senza inviare Telegram"
+        required: false
+        default: true
+        type: boolean
+
+  schedule:
+    - cron: "2/5 9-15 * * 1-5"
+      timezone: "America/New_York"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: firegate-cycle-scanner
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Installa dipendenze
+        run: pip install -r requirements_cycle.txt
+
+      - name: Verifica sintassi
+        run: python -m py_compile cycle_scanner.py
+
+      - name: Esegui cycle scanner
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+          TEST_TELEGRAM: ${{ github.event_name == 'workflow_dispatch' && inputs.test_telegram && 'true' || 'false' }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && 'true' || 'false' }}
+
+          TELEGRAM_PREFIX: "AddFiregate"
+
+          TOP_ACTIVE: "80"
+          MAX_ANALYZE: "60"
+          MAX_ALERTS_PER_RUN: "5"
+
+          MIN_MARKET_CAP: "2000000000"
+          MIN_AVG_DOLLAR_VOLUME: "20000000"
+          MIN_PRICE: "5"
+          MIN_CYCLE_SCORE: "4.0"
+          MIN_FINAL_SCORE: "10.0"
+
+          COOLDOWN_HOURS: "6"
+          REALERT_SCORE_GAIN: "2.0"
+          MAX_WORKERS: "5"
+        run: python cycle_scanner.py
+
+      - name: Salva stato e cache
+        if: always()
+        run: |
+          git config user.name "firegate-cycle-scanner"
+          git config user.email "firegate-cycle-scanner@users.noreply.github.com"
+
+          touch cycle_alerts_state.json cycle_meta_cache.json
+          git add cycle_alerts_state.json cycle_meta_cache.json
+
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica da salvare."
+            exit 0
+          fi
+
+          git commit -m "Update cycle scanner state [skip ci]"
+          git pull --rebase
+          git push
