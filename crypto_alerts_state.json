@@ -1,4 +1,10 @@
 {
+  "ADA": {
+    "price": 0.21474,
+    "product_id": "ADA-USD",
+    "score": 13.7,
+    "time": "2026-09-18T02:23:33.820133+00:00"
+  },
   "ARB": {
     "price": 0.19978,
     "product_id": "ARB-USD",
