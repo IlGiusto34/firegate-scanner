@@ -440,6 +440,15 @@
     "target_upside": null,
     "updated": "2026-09-18"
   },
+  "SPDN": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-18"
+  },
   "SPY": {
     "analyst_count": 0,
     "analyst_score": 0.0,
