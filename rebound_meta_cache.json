@@ -1,4 +1,31 @@
 {
+  "ASTG": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-18"
+  },
+  "ASTX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-18"
+  },
+  "ASTY": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-18"
+  },
   "COHQ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
