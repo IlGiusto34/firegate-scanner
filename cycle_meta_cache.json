@@ -368,6 +368,15 @@
     "target_upside": 63.250366032210835,
     "updated": "2026-09-18"
   },
+  "QQQ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-18"
+  },
   "RIG": {
     "analyst_count": 12,
     "analyst_score": 1.75,
