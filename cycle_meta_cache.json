@@ -26,6 +26,15 @@
     "target_upside": 105.4263565891473,
     "updated": "2026-09-17"
   },
+  "AGNC": {
+    "analyst_count": 9,
+    "analyst_score": 0.25,
+    "market_cap": 11730339460.73534,
+    "recommendation": "none",
+    "target": 11.05556,
+    "target_upside": 11.672323232323233,
+    "updated": "2026-09-18"
+  },
   "AMZN": {
     "analyst_count": 59,
     "analyst_score": 2.75,
