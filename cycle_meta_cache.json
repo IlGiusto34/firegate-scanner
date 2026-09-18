@@ -51,7 +51,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-17"
+    "updated": "2026-09-18"
   },
   "BMNR": {
     "analyst_count": 3,
@@ -206,6 +206,15 @@
     "target_upside": null,
     "updated": "2026-09-18"
   },
+  "IMCC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 3661573.1451001167,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-18"
+  },
   "INTC": {
     "analyst_count": 43,
     "analyst_score": 1.25,
@@ -218,11 +227,11 @@
   "IREN": {
     "analyst_count": 16,
     "analyst_score": 2.75,
-    "market_cap": 17011511198.957062,
+    "market_cap": 17582896542.099953,
     "recommendation": "strong_buy",
     "target": 79.03125,
-    "target_upside": 83.11225671918446,
-    "updated": "2026-09-17"
+    "target_upside": 77.16039004707464,
+    "updated": "2026-09-18"
   },
   "KORU": {
     "analyst_count": 0,
@@ -249,6 +258,15 @@
     "recommendation": "none",
     "target": null,
     "target_upside": null,
+    "updated": "2026-09-18"
+  },
+  "MSTR": {
+    "analyst_count": 15,
+    "analyst_score": 2.75,
+    "market_cap": 57154928198.23334,
+    "recommendation": "strong_buy",
+    "target": 228.53333,
+    "target_upside": 58.65962926964734,
     "updated": "2026-09-18"
   },
   "NFLX": {
