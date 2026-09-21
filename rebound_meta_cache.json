@@ -170,6 +170,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "SCTX": {
+    "analyst_count": 4,
+    "analyst_score": 1.25,
+    "market_cap": 539174237.7337646,
+    "recommendation": "none",
+    "target": 57.0,
+    "target_upside": 100.14044943820224,
+    "updated": "2026-09-21"
+  },
   "SMST": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -177,6 +186,15 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-18"
+    "updated": "2026-09-21"
+  },
+  "VNCE": {
+    "analyst_count": 2,
+    "analyst_score": 1.75,
+    "market_cap": 121033408.08802986,
+    "recommendation": "strong_buy",
+    "target": 10.0,
+    "target_upside": 6.951871657754016,
+    "updated": "2026-09-21"
   }
 }
