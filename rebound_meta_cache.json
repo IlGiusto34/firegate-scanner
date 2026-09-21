@@ -1,4 +1,13 @@
 {
+  "APMD": {
+    "analyst_count": 3,
+    "analyst_score": 3.0,
+    "market_cap": 1035357508.6679401,
+    "recommendation": "strong_buy",
+    "target": 50.33333,
+    "target_upside": 102.46713596138375,
+    "updated": "2026-09-21"
+  },
   "ASTG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
