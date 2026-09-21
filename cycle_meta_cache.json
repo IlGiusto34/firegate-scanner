@@ -227,11 +227,11 @@
   "HL": {
     "analyst_count": 10,
     "analyst_score": 1.75,
-    "market_cap": 12666193458.993816,
+    "market_cap": 12397486342.853136,
     "recommendation": "buy",
-    "target": 23.375,
-    "target_upside": 24.005305039787793,
-    "updated": "2026-09-18"
+    "target": 22.975,
+    "target_upside": 24.559501219842783,
+    "updated": "2026-09-21"
   },
   "HLN": {
     "analyst_count": 5,
