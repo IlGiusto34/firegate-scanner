@@ -99,13 +99,13 @@
     "updated": "2026-09-17"
   },
   "CIFR": {
-    "analyst_count": 18,
+    "analyst_count": 19,
     "analyst_score": 2.75,
-    "market_cap": 7090799505.3980255,
+    "market_cap": 7754848818.919682,
     "recommendation": "strong_buy",
-    "target": 31.77778,
-    "target_upside": 85.99812701199883,
-    "updated": "2026-09-17"
+    "target": 31.81579,
+    "target_upside": 70.13791443850268,
+    "updated": "2026-09-21"
   },
   "CMCSA": {
     "analyst_count": 22,
