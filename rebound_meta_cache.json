@@ -26,6 +26,24 @@
     "target_upside": null,
     "updated": "2026-09-18"
   },
+  "AXTQ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-21"
+  },
+  "BIAF": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 4986108.914581299,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-21"
+  },
   "COHQ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -42,7 +60,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-18"
+    "updated": "2026-09-21"
   },
   "FTFT": {
     "analyst_count": 0,
@@ -61,6 +79,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-18"
+  },
+  "METQ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-21"
   },
   "NCT": {
     "analyst_count": 0,
@@ -97,6 +124,33 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-18"
+  },
+  "NHICU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-21"
+  },
+  "NVOC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-21"
+  },
+  "NVOX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-21"
   },
   "SMST": {
     "analyst_count": 0,
