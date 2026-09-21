@@ -458,6 +458,15 @@
     "target_upside": 16.89145793192035,
     "updated": "2026-09-21"
   },
+  "PSKY": {
+    "analyst_count": 16,
+    "analyst_score": 0.45,
+    "market_cap": 12072136838.83301,
+    "recommendation": "hold",
+    "target": 9.85625,
+    "target_upside": -8.356578335657849,
+    "updated": "2026-09-21"
+  },
   "PURR": {
     "analyst_count": 4,
     "analyst_score": 2.5,
@@ -654,6 +663,6 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-17"
+    "updated": "2026-09-21"
   }
 }
