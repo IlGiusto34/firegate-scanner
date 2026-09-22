@@ -107,6 +107,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "EDRY": {
+    "analyst_count": 3,
+    "analyst_score": -1.0,
+    "market_cap": 191604438.2030983,
+    "recommendation": "none",
+    "target": 45.33333,
+    "target_upside": -24.457040493251125,
+    "updated": "2026-09-22"
+  },
   "FTFT": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -268,6 +277,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "SMX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 10401649.772216797,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
   },
   "SNDQ": {
     "analyst_count": 0,
