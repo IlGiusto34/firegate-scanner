@@ -681,7 +681,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-18"
+    "updated": "2026-09-22"
   },
   "SPY": {
     "analyst_count": 0,
@@ -738,6 +738,15 @@
     "updated": "2026-09-21"
   },
   "TSLL": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
+  "UNG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
     "market_cap": null,
