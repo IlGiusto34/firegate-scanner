@@ -17,6 +17,15 @@
     "target_upside": -3.8641975308641996,
     "updated": "2026-09-22"
   },
+  "ACWX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "AEMD": {
     "analyst_count": 2,
     "analyst_score": 1.0,
@@ -335,11 +344,11 @@
   "MARA": {
     "analyst_count": 12,
     "analyst_score": 2.25,
-    "market_cap": 5286506041.542636,
+    "market_cap": 5365697367.9553385,
     "recommendation": "buy",
     "target": 18.41,
-    "target_upside": 34.57602339181287,
-    "updated": "2026-09-21"
+    "target_upside": 32.44604316546762,
+    "updated": "2026-09-22"
   },
   "MEDS": {
     "analyst_count": 0,
@@ -452,11 +461,11 @@
   "ONDS": {
     "analyst_count": 9,
     "analyst_score": 2.75,
-    "market_cap": 4367181495.0,
+    "market_cap": 4352624167.818416,
     "recommendation": "strong_buy",
     "target": 19.41667,
-    "target_upside": 158.71645569620253,
-    "updated": "2026-09-21"
+    "target_upside": 159.9286479250335,
+    "updated": "2026-09-22"
   },
   "ONON": {
     "analyst_count": 30,
