@@ -280,12 +280,12 @@
   },
   "HLN": {
     "analyst_count": 5,
-    "analyst_score": 1.25,
-    "market_cap": 40875919059.152115,
-    "recommendation": "none",
+    "analyst_score": 2.25,
+    "market_cap": 40831941808.69577,
+    "recommendation": "buy",
     "target": 11.994,
-    "target_upside": 29.03711672942442,
-    "updated": "2026-09-21"
+    "target_upside": 28.967741935483858,
+    "updated": "2026-09-22"
   },
   "HOOD": {
     "analyst_count": 27,
@@ -753,7 +753,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-21"
+    "updated": "2026-09-22"
   },
   "TSLL": {
     "analyst_count": 0,
