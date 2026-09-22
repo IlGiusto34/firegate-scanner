@@ -80,6 +80,15 @@
     "target_upside": 47.407649667405764,
     "updated": "2026-09-18"
   },
+  "BAI": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "BB": {
     "analyst_count": 7,
     "analyst_score": 0.45,
