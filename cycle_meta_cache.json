@@ -116,6 +116,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "BLCR": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "BMNR": {
     "analyst_count": 3,
     "analyst_score": 2.5,
