@@ -44,6 +44,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "AXTC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "AXTQ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -61,6 +70,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "BWET": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
   },
   "CBRZ": {
     "analyst_count": 0,
@@ -98,6 +116,15 @@
     "target_upside": null,
     "updated": "2026-09-18"
   },
+  "HVIIU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "JXG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -106,6 +133,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-18"
+  },
+  "LGHL": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 370767.0329589844,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
   },
   "METQ": {
     "analyst_count": 0,
@@ -124,6 +160,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-18"
+  },
+  "NFE": {
+    "analyst_count": 1,
+    "analyst_score": 1.25,
+    "market_cap": 56039232.5467329,
+    "recommendation": "none",
+    "target": 25.0,
+    "target_upside": 154.5824847250509,
+    "updated": "2026-09-22"
   },
   "NFLU": {
     "analyst_count": 0,
@@ -179,6 +224,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "PBM": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 22542677.897979736,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "RKLZ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -206,6 +260,42 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "SNDQ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
+  "TGRZ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
+  "TJGC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 158368363.7222824,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
+  "VEEE": {
+    "analyst_count": 1,
+    "analyst_score": 1.25,
+    "market_cap": 8881679.088549614,
+    "recommendation": "none",
+    "target": 74.00007,
+    "target_upside": 393.9924566088117,
+    "updated": "2026-09-22"
+  },
   "VNCE": {
     "analyst_count": 2,
     "analyst_score": 1.75,
@@ -214,5 +304,14 @@
     "target": 10.0,
     "target_upside": 6.951871657754016,
     "updated": "2026-09-21"
+  },
+  "WLDSW": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
   }
 }
