@@ -233,6 +233,15 @@
     "target_upside": 46.989060489060485,
     "updated": "2026-09-17"
   },
+  "GLXY": {
+    "analyst_count": 16,
+    "analyst_score": 2.25,
+    "market_cap": 5280867273.8533325,
+    "recommendation": "buy",
+    "target": 40.625,
+    "target_upside": 49.46651949963208,
+    "updated": "2026-09-22"
+  },
   "GOOG": {
     "analyst_count": 15,
     "analyst_score": 2.25,
@@ -532,12 +541,12 @@
   },
   "PATH": {
     "analyst_count": 17,
-    "analyst_score": 0.95,
-    "market_cap": 7061708077.66799,
+    "analyst_score": 1.45,
+    "market_cap": 6975665268.748007,
     "recommendation": "hold",
     "target": 16.85176,
-    "target_upside": 24.275516224188777,
-    "updated": "2026-09-21"
+    "target_upside": 25.853323375653446,
+    "updated": "2026-09-22"
   },
   "PCG": {
     "analyst_count": 16,
