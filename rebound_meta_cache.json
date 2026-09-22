@@ -116,6 +116,15 @@
     "target_upside": -24.457040493251125,
     "updated": "2026-09-22"
   },
+  "EVER": {
+    "analyst_count": 6,
+    "analyst_score": 2.75,
+    "market_cap": 683827392.3522167,
+    "recommendation": "buy",
+    "target": 29.5,
+    "target_upside": 51.27429362596789,
+    "updated": "2026-09-22"
+  },
   "FTFT": {
     "analyst_count": 0,
     "analyst_score": 0.0,
