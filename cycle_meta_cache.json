@@ -134,6 +134,15 @@
     "target_upside": 58.70751960085532,
     "updated": "2026-09-22"
   },
+  "CCL": {
+    "analyst_count": 26,
+    "analyst_score": 2.25,
+    "market_cap": 30553448871.547783,
+    "recommendation": "buy",
+    "target": 34.56538,
+    "target_upside": 54.96695808114771,
+    "updated": "2026-09-22"
+  },
   "CDE": {
     "analyst_count": 11,
     "analyst_score": 1.75,
