@@ -152,6 +152,15 @@
     "target_upside": null,
     "updated": "2026-09-22"
   },
+  "CORO": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "CRML": {
     "analyst_count": 2,
     "analyst_score": 2.0,
@@ -330,6 +339,15 @@
     "recommendation": "buy",
     "target": 77.97222,
     "target_upside": 62.20557520282919,
+    "updated": "2026-09-22"
+  },
+  "IUSB": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
     "updated": "2026-09-22"
   },
   "KORU": {
@@ -765,6 +783,15 @@
     "updated": "2026-09-18"
   },
   "XLE": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
+  "XLF": {
     "analyst_count": 0,
     "analyst_score": 0.0,
     "market_cap": null,
