@@ -305,6 +305,15 @@
     "target_upside": null,
     "updated": "2026-09-17"
   },
+  "IALT": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "IBIT": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -443,11 +452,11 @@
   "NU": {
     "analyst_count": 22,
     "analyst_score": 2.25,
-    "market_cap": 67424339169.306274,
+    "market_cap": 66941268460.6448,
     "recommendation": "buy",
-    "target": 18.64545,
-    "target_upside": 33.611250447868144,
-    "updated": "2026-09-21"
+    "target": 18.69091,
+    "target_upside": 34.855050505050514,
+    "updated": "2026-09-22"
   },
   "NUAI": {
     "analyst_count": 2,
@@ -610,6 +619,15 @@
     "target": 17.7,
     "target_upside": 40.97968936678613,
     "updated": "2026-09-17"
+  },
+  "RWM": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
   },
   "SHOP": {
     "analyst_count": 48,
