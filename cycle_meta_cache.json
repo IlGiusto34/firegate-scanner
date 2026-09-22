@@ -485,6 +485,15 @@
     "target_upside": 24.275516224188777,
     "updated": "2026-09-21"
   },
+  "PCG": {
+    "analyst_count": 16,
+    "analyst_score": 2.25,
+    "market_cap": 38685498270.99725,
+    "recommendation": "buy",
+    "target": 19.53125,
+    "target_upside": 51.640139751552795,
+    "updated": "2026-09-22"
+  },
   "PLTD": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -753,7 +762,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-21"
+    "updated": "2026-09-22"
   },
   "XNDU": {
     "analyst_count": 3,
