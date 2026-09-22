@@ -152,6 +152,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "NBIZ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
   "NCT": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -265,6 +274,15 @@
     "analyst_score": 0.0,
     "market_cap": null,
     "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-22"
+  },
+  "SUPX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 341545429.0865345,
+    "recommendation": "none",
     "target": null,
     "target_upside": null,
     "updated": "2026-09-22"
