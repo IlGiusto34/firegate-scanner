@@ -56,20 +56,20 @@
   "AMZN": {
     "analyst_count": 58,
     "analyst_score": 2.75,
-    "market_cap": 2790743028985.54,
+    "market_cap": 2699976108108.953,
     "recommendation": "strong_buy",
-    "target": 329.20242,
-    "target_upside": 27.23290561954086,
-    "updated": "2026-09-22"
+    "target": 329.28864,
+    "target_upside": 31.526058475794837,
+    "updated": "2026-09-23"
   },
   "AUR": {
     "analyst_count": 12,
     "analyst_score": 2.25,
-    "market_cap": 12886918716.901491,
+    "market_cap": 11964606797.42965,
     "recommendation": "buy",
     "target": 11.54917,
-    "target_upside": 79.47428127428128,
-    "updated": "2026-09-21"
+    "target_upside": 93.4534338358459,
+    "updated": "2026-09-23"
   },
   "AVGO": {
     "analyst_count": 47,
@@ -488,11 +488,11 @@
   "META": {
     "analyst_count": 56,
     "analyst_score": 1.75,
-    "market_cap": 1898618108484.6511,
+    "market_cap": 1941607587006.4072,
     "recommendation": "strong_buy",
-    "target": 758.0664,
-    "target_upside": 1.725204975778638,
-    "updated": "2026-09-22"
+    "target": 766.37,
+    "target_upside": 0.5576549624731086,
+    "updated": "2026-09-23"
   },
   "MSTR": {
     "analyst_count": 15,
@@ -587,11 +587,11 @@
   "ONDS": {
     "analyst_count": 9,
     "analyst_score": 2.75,
-    "market_cap": 4352624167.818416,
+    "market_cap": 4588452090.717901,
     "recommendation": "strong_buy",
     "target": 19.41667,
-    "target_upside": 159.9286479250335,
-    "updated": "2026-09-22"
+    "target_upside": 146.4044416243655,
+    "updated": "2026-09-23"
   },
   "ONON": {
     "analyst_count": 30,
