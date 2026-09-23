@@ -440,6 +440,15 @@
     "target_upside": null,
     "updated": "2026-09-22"
   },
+  "TRVG": {
+    "analyst_count": 4,
+    "analyst_score": 0.0,
+    "market_cap": 393010600.89216137,
+    "recommendation": "none",
+    "target": 6.0515666,
+    "target_upside": 8.6457199281867,
+    "updated": "2026-09-23"
+  },
   "VEEE": {
     "analyst_count": 1,
     "analyst_score": 1.25,
