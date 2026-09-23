@@ -146,11 +146,11 @@
   "CDE": {
     "analyst_count": 11,
     "analyst_score": 1.75,
-    "market_cap": 20635795869.102165,
+    "market_cap": 19905961000.99435,
     "recommendation": "buy",
-    "target": 23.77273,
-    "target_upside": 18.390089641434272,
-    "updated": "2026-09-17"
+    "target": 23.95455,
+    "target_upside": 23.700232378001562,
+    "updated": "2026-09-23"
   },
   "CIFR": {
     "analyst_count": 19,
@@ -853,6 +853,15 @@
     "target": 28.70652,
     "target_upside": 13.218379017945182,
     "updated": "2026-09-18"
+  },
+  "TLT": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-23"
   },
   "TQQQ": {
     "analyst_count": 0,
