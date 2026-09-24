@@ -467,6 +467,15 @@
     "target_upside": 100.14044943820224,
     "updated": "2026-09-21"
   },
+  "SGMT": {
+    "analyst_count": 10,
+    "analyst_score": 3.25,
+    "market_cap": 554455189.5023289,
+    "recommendation": "strong_buy",
+    "target": 29.6,
+    "target_upside": 231.83856502242156,
+    "updated": "2026-09-24"
+  },
   "SHPU": {
     "analyst_count": 0,
     "analyst_score": 0.0,
