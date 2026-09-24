@@ -98,6 +98,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "BEX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
+  },
   "BIAF": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -178,6 +187,15 @@
     "target": 45.33333,
     "target_upside": -24.457040493251125,
     "updated": "2026-09-22"
+  },
+  "EOSU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
   },
   "EVER": {
     "analyst_count": 6,
@@ -350,6 +368,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "NVA.WS": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
+  },
   "NVOC": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -367,6 +394,33 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "ORAC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
+  },
+  "ORCU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
+  },
+  "ORCX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
   },
   "PBM": {
     "analyst_count": 0,
@@ -416,11 +470,11 @@
   "SMX": {
     "analyst_count": 0,
     "analyst_score": 0.0,
-    "market_cap": 10401649.772216797,
+    "market_cap": 9144306.784729004,
     "recommendation": "none",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-22"
+    "updated": "2026-09-24"
   },
   "SNDQ": {
     "analyst_count": 0,
@@ -475,6 +529,15 @@
     "target": 74.00007,
     "target_upside": 393.9924566088117,
     "updated": "2026-09-22"
+  },
+  "VKTX": {
+    "analyst_count": 19,
+    "analyst_score": 3.25,
+    "market_cap": 4191340062.009651,
+    "recommendation": "strong_buy",
+    "target": 94.81579,
+    "target_upside": 163.63350479632976,
+    "updated": "2026-09-24"
   },
   "VNCE": {
     "analyst_count": 2,
