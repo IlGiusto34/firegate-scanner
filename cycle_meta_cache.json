@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8913160343.652588,
+    "market_cap": 8694975457.897898,
     "recommendation": "buy",
     "target": 17.67391,
-    "target_upside": 31.306909361069813,
-    "updated": "2026-09-23"
+    "target_upside": 34.55584316711078,
+    "updated": "2026-09-24"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -314,6 +314,15 @@
     "target_upside": null,
     "updated": "2026-09-23"
   },
+  "GEN": {
+    "analyst_count": 9,
+    "analyst_score": 2.25,
+    "market_cap": 14737213230.19423,
+    "recommendation": "buy",
+    "target": 33.0,
+    "target_upside": 34.03736799350121,
+    "updated": "2026-09-24"
+  },
   "GLXY": {
     "analyst_count": 16,
     "analyst_score": 2.25,
@@ -515,11 +524,11 @@
   "MARA": {
     "analyst_count": 12,
     "analyst_score": 2.25,
-    "market_cap": 5242081342.40081,
+    "market_cap": 5000644281.77581,
     "recommendation": "buy",
     "target": 18.41,
-    "target_upside": 35.66691230655859,
-    "updated": "2026-09-23"
+    "target_upside": 42.21707222865972,
+    "updated": "2026-09-24"
   },
   "MBB": {
     "analyst_count": 0,
