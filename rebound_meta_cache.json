@@ -1,4 +1,13 @@
 {
+  "ACMM": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
+  },
   "AEHG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -296,6 +305,15 @@
     "target_upside": null,
     "updated": "2026-09-22"
   },
+  "MAAS": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 5695265772.8496475,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-24"
+  },
   "METQ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -547,6 +565,15 @@
     "target": 10.0,
     "target_upside": 6.951871657754016,
     "updated": "2026-09-21"
+  },
+  "VOGX": {
+    "analyst_count": 1,
+    "analyst_score": 1.25,
+    "market_cap": 346272070.03652763,
+    "recommendation": "none",
+    "target": 55.0,
+    "target_upside": 135.95023595023594,
+    "updated": "2026-09-24"
   },
   "VOYG": {
     "analyst_count": 10,
