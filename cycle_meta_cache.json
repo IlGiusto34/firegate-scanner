@@ -694,12 +694,12 @@
   },
   "PATH": {
     "analyst_count": 17,
-    "analyst_score": 0.95,
-    "market_cap": 6821924383.332005,
+    "analyst_score": 1.45,
+    "market_cap": 6678606347.6494875,
     "recommendation": "hold",
     "target": 16.32235,
-    "target_upside": 24.788608562691138,
-    "updated": "2026-09-23"
+    "target_upside": 27.36909871244635,
+    "updated": "2026-09-24"
   },
   "PCG": {
     "analyst_count": 16,
@@ -978,7 +978,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-23"
+    "updated": "2026-09-24"
   },
   "TSLL": {
     "analyst_count": 0,
@@ -1028,11 +1028,11 @@
   "WBD": {
     "analyst_count": 12,
     "analyst_score": 0.45,
-    "market_cap": 77207274929.36935,
+    "market_cap": 77157131047.65324,
     "recommendation": "hold",
     "target": 30.16667,
-    "target_upside": -2.0403636954051008,
-    "updated": "2026-09-23"
+    "target_upside": -1.9767018683996662,
+    "updated": "2026-09-24"
   },
   "WHLR": {
     "analyst_count": 0,
