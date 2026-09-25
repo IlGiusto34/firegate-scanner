@@ -334,12 +334,12 @@
   },
   "GLND": {
     "analyst_count": 1,
-    "analyst_score": 1.5,
-    "market_cap": 238110913.83678532,
+    "analyst_score": 2.0,
+    "market_cap": 222586694.13269806,
     "recommendation": "strong_buy",
     "target": 6.0,
-    "target_upside": 10.091743119266061,
-    "updated": "2026-09-24"
+    "target_upside": 18.11023622047243,
+    "updated": "2026-09-25"
   },
   "GLXY": {
     "analyst_count": 16,
@@ -1032,7 +1032,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-24"
+    "updated": "2026-09-25"
   },
   "USHY": {
     "analyst_count": 0,
@@ -1095,7 +1095,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-24"
+    "updated": "2026-09-25"
   },
   "XLF": {
     "analyst_count": 0,
