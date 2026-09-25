@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8694975457.897898,
+    "market_cap": 8900185789.177803,
     "recommendation": "buy",
     "target": 17.67391,
-    "target_upside": 34.55584316711078,
-    "updated": "2026-09-24"
+    "target_upside": 31.453402751952385,
+    "updated": "2026-09-25"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -731,11 +731,11 @@
   "PATH": {
     "analyst_count": 17,
     "analyst_score": 1.45,
-    "market_cap": 6678606347.6494875,
+    "market_cap": 6597879584.7334795,
     "recommendation": "hold",
-    "target": 16.32235,
-    "target_upside": 27.36909871244635,
-    "updated": "2026-09-24"
+    "target": 15.91059,
+    "target_upside": 25.62645084879589,
+    "updated": "2026-09-25"
   },
   "PCG": {
     "analyst_count": 16,
