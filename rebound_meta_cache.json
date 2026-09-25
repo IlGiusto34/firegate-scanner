@@ -242,6 +242,15 @@
     "target_upside": null,
     "updated": "2026-09-23"
   },
+  "GEMG": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
+  },
   "GRML": {
     "analyst_count": 1,
     "analyst_score": 1.25,
@@ -295,6 +304,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-18"
+  },
+  "LGCY": {
+    "analyst_count": 3,
+    "analyst_score": 3.0,
+    "market_cap": 117916990.29890442,
+    "recommendation": "strong_buy",
+    "target": 14.8,
+    "target_upside": 58.79828326180259,
+    "updated": "2026-09-25"
   },
   "LGHL": {
     "analyst_count": 0,
@@ -458,6 +476,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "RPGL": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 13485407.0,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
+  },
   "SCTX": {
     "analyst_count": 4,
     "analyst_score": 1.25,
@@ -539,6 +566,15 @@
     "target_upside": null,
     "updated": "2026-09-22"
   },
+  "TRT": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 67137072.0,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
+  },
   "TRVG": {
     "analyst_count": 4,
     "analyst_score": 0.0,
@@ -592,6 +628,15 @@
     "target": 46.7,
     "target_upside": 41.04500151011781,
     "updated": "2026-09-23"
+  },
+  "VWAV": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 12236790.003036976,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
   },
   "WLDSW": {
     "analyst_count": 0,
