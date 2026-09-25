@@ -1079,6 +1079,15 @@
     "target_upside": 162.64761772853186,
     "updated": "2026-09-24"
   },
+  "VTEB": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
+  },
   "WBD": {
     "analyst_count": 12,
     "analyst_score": 0.45,
