@@ -380,11 +380,11 @@
   "HBAN": {
     "analyst_count": 19,
     "analyst_score": 2.25,
-    "market_cap": 31942759246.859802,
+    "market_cap": 31389165245.41588,
     "recommendation": "buy",
-    "target": 20.19474,
-    "target_upside": 27.733965844402263,
-    "updated": "2026-09-18"
+    "target": 19.75263,
+    "target_upside": 27.108301158301163,
+    "updated": "2026-09-25"
   },
   "HL": {
     "analyst_count": 10,
