@@ -38,11 +38,11 @@
   "AGNC": {
     "analyst_count": 9,
     "analyst_score": 0.75,
-    "market_cap": 11416186470.277584,
+    "market_cap": 11374694800.522697,
     "recommendation": "none",
     "target": 11.05556,
-    "target_upside": 14.684232365145222,
-    "updated": "2026-09-24"
+    "target_upside": 15.22209484106305,
+    "updated": "2026-09-25"
   },
   "AKAM": {
     "analyst_count": 23,
@@ -168,6 +168,15 @@
     "recommendation": "strong_buy",
     "target": 45.86667,
     "target_upside": 67.1221351794498,
+    "updated": "2026-09-25"
+  },
+  "BSV": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
     "updated": "2026-09-25"
   },
   "CCL": {
