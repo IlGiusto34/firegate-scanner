@@ -134,6 +134,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "BTDL": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
+  },
   "BUUU": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -421,6 +430,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "NTRB": {
+    "analyst_count": 1,
+    "analyst_score": 1.25,
+    "market_cap": 94328102.86221504,
+    "recommendation": "none",
+    "target": 15.0,
+    "target_upside": 92.3076923076923,
+    "updated": "2026-09-25"
   },
   "NVA.WS": {
     "analyst_count": 0,
