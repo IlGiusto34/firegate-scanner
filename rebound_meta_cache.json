@@ -260,6 +260,15 @@
     "target_upside": null,
     "updated": "2026-09-25"
   },
+  "GMEU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-25"
+  },
   "GRML": {
     "analyst_count": 1,
     "analyst_score": 1.25,
