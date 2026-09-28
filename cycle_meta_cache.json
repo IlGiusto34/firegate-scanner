@@ -758,11 +758,11 @@
   "ONDS": {
     "analyst_count": 9,
     "analyst_score": 2.75,
-    "market_cap": 4486642251.36883,
+    "market_cap": 4402150061.771889,
     "recommendation": "strong_buy",
     "target": 19.41667,
-    "target_upside": 152.0009085009734,
-    "updated": "2026-09-25"
+    "target_upside": 156.83425925925926,
+    "updated": "2026-09-28"
   },
   "ONON": {
     "analyst_count": 30,
@@ -879,7 +879,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-25"
+    "updated": "2026-09-28"
   },
   "QQQ": {
     "analyst_count": 0,
@@ -888,7 +888,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-21"
+    "updated": "2026-09-28"
   },
   "QUBT": {
     "analyst_count": 6,
