@@ -955,12 +955,12 @@
   },
   "SMCI": {
     "analyst_count": 16,
-    "analyst_score": 0.45,
-    "market_cap": 28177244918.78015,
-    "recommendation": "hold",
+    "analyst_score": 0.25,
+    "market_cap": 26748198679.400093,
+    "recommendation": "none",
     "target": 42.375,
-    "target_upside": -1.4305652477320407,
-    "updated": "2026-09-25"
+    "target_upside": 2.4788391777509133,
+    "updated": "2026-09-28"
   },
   "SMR": {
     "analyst_count": 15,
