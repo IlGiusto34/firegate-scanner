@@ -53,6 +53,15 @@
     "target_upside": null,
     "updated": "2026-09-23"
   },
+  "APUS": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 9371622.837568283,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-28"
+  },
   "ASTG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -106,6 +115,24 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "AXTU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-28"
+  },
+  "BEC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-28"
   },
   "BEX": {
     "analyst_count": 0,
@@ -466,6 +493,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "OCUL": {
+    "analyst_count": 11,
+    "analyst_score": 3.25,
+    "market_cap": 1799466501.7751274,
+    "recommendation": "strong_buy",
+    "target": 27.09091,
+    "target_upside": 230.1756246191347,
+    "updated": "2026-09-28"
   },
   "ORAC": {
     "analyst_count": 0,
