@@ -686,11 +686,11 @@
   "NFLX": {
     "analyst_count": 45,
     "analyst_score": 2.25,
-    "market_cap": 297180386112.7219,
+    "market_cap": 292766588453.69165,
     "recommendation": "buy",
-    "target": 93.88222,
-    "target_upside": 31.542973238055193,
-    "updated": "2026-09-18"
+    "target": 92.92667,
+    "target_upside": 32.157676171513906,
+    "updated": "2026-09-28"
   },
   "NKE": {
     "analyst_count": 36,
@@ -1145,11 +1145,11 @@
   "WBD": {
     "analyst_count": 12,
     "analyst_score": 0.45,
-    "market_cap": 77307557910.8178,
+    "market_cap": 77332629851.67584,
     "recommendation": "hold",
     "target": 30.16667,
-    "target_upside": -2.1674395978595773,
-    "updated": "2026-09-25"
+    "target_upside": -2.199157075701086,
+    "updated": "2026-09-28"
   },
   "WHLR": {
     "analyst_count": 0,
