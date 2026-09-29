@@ -1257,7 +1257,16 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-28"
+    "updated": "2026-09-29"
+  },
+  "XLU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-29"
   },
   "XNDU": {
     "analyst_count": 3,
