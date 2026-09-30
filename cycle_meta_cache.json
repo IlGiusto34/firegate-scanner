@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8946524115.034348,
+    "market_cap": 8900185789.177803,
     "recommendation": "buy",
     "target": 17.01304,
-    "target_upside": 25.88264890862004,
-    "updated": "2026-09-29"
+    "target_upside": 26.49100371747213,
+    "updated": "2026-09-30"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -47,11 +47,11 @@
   "AGNC": {
     "analyst_count": 9,
     "analyst_score": 0.75,
-    "market_cap": 11090178394.01466,
+    "market_cap": 10853082330.727303,
     "recommendation": "none",
     "target": 11.05556,
-    "target_upside": 18.17808658471405,
-    "updated": "2026-09-29"
+    "target_upside": 20.693886462882084,
+    "updated": "2026-09-30"
   },
   "AKAM": {
     "analyst_count": 23,
@@ -583,6 +583,15 @@
     "target": 77.97222,
     "target_upside": 82.73311460042181,
     "updated": "2026-09-29"
+  },
+  "ITUB": {
+    "analyst_count": 8,
+    "analyst_score": 1.25,
+    "market_cap": 93520584734.81036,
+    "recommendation": "buy",
+    "target": 8.875,
+    "target_upside": 4.59634649381262,
+    "updated": "2026-09-30"
   },
   "IUSB": {
     "analyst_count": 0,
@@ -1131,7 +1140,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-29"
+    "updated": "2026-09-30"
   },
   "SPY": {
     "analyst_count": 0,
