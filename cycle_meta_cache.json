@@ -11,11 +11,11 @@
   "AAPL": {
     "analyst_count": 39,
     "analyst_score": 1.25,
-    "market_cap": 4982672089406.128,
+    "market_cap": 4936189661736.45,
     "recommendation": "buy",
     "target": 328.22205,
-    "target_upside": -3.8641975308641996,
-    "updated": "2026-09-22"
+    "target_upside": -2.9503104671791736,
+    "updated": "2026-09-30"
   },
   "ACVA": {
     "analyst_count": 5,
@@ -549,13 +549,13 @@
     "updated": "2026-09-30"
   },
   "IONQ": {
-    "analyst_count": 13,
+    "analyst_count": 14,
     "analyst_score": 2.75,
-    "market_cap": 19134556847.423615,
+    "market_cap": 18595727228.58795,
     "recommendation": "strong_buy",
-    "target": 67.14231,
-    "target_upside": 42.16030065636247,
-    "updated": "2026-09-28"
+    "target": 66.63214,
+    "target_upside": 45.168061002178675,
+    "updated": "2026-09-30"
   },
   "IOVA": {
     "analyst_count": 10,
@@ -839,11 +839,11 @@
   "ONDS": {
     "analyst_count": 9,
     "analyst_score": 2.75,
-    "market_cap": 4492465411.637341,
+    "market_cap": 4422588876.733032,
     "recommendation": "strong_buy",
     "target": 19.41667,
-    "target_upside": 151.83748378728924,
-    "updated": "2026-09-29"
+    "target_upside": 155.65069124423965,
+    "updated": "2026-09-30"
   },
   "ONON": {
     "analyst_count": 30,
