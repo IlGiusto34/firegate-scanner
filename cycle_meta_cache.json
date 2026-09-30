@@ -892,12 +892,12 @@
   },
   "PATH": {
     "analyst_count": 17,
-    "analyst_score": 1.45,
-    "market_cap": 6405104329.360467,
+    "analyst_score": 0.95,
+    "market_cap": 6670789334.602506,
     "recommendation": "hold",
     "target": 15.49882,
-    "target_upside": 26.006666666666668,
-    "updated": "2026-09-29"
+    "target_upside": 21.0372510737993,
+    "updated": "2026-09-30"
   },
   "PCG": {
     "analyst_count": 16,
