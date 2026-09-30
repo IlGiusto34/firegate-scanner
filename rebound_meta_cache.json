@@ -125,6 +125,15 @@
     "target_upside": null,
     "updated": "2026-09-28"
   },
+  "BAFN": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 174853858.87492418,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-30"
+  },
   "BEC": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -197,6 +206,15 @@
     "target_upside": 23.03149606299213,
     "updated": "2026-09-23"
   },
+  "CBRX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-30"
+  },
   "CBRZ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -205,6 +223,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "CEGX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-30"
   },
   "COHQ": {
     "analyst_count": 0,
@@ -278,6 +305,15 @@
     "target_upside": null,
     "updated": "2026-09-18"
   },
+  "FVNNU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-30"
+  },
   "GDXU": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -341,6 +377,15 @@
     "target_upside": 25.52301255230125,
     "updated": "2026-09-23"
   },
+  "IONZ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-30"
+  },
   "JNUG": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -394,6 +439,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "MRNX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-09-30"
   },
   "NBIZ": {
     "analyst_count": 0,
@@ -546,7 +600,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-21"
+    "updated": "2026-09-30"
   },
   "RPGL": {
     "analyst_count": 0,
@@ -560,11 +614,11 @@
   "SCTX": {
     "analyst_count": 4,
     "analyst_score": 1.25,
-    "market_cap": 539174237.7337646,
+    "market_cap": 378635477.6843262,
     "recommendation": "none",
     "target": 57.0,
-    "target_upside": 100.14044943820224,
-    "updated": "2026-09-21"
+    "target_upside": 184.28927680798003,
+    "updated": "2026-09-30"
   },
   "SGMT": {
     "analyst_count": 10,
@@ -637,6 +691,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-22"
+  },
+  "TRLV": {
+    "analyst_count": 7,
+    "analyst_score": 3.25,
+    "market_cap": 2076815825.17688,
+    "recommendation": "strong_buy",
+    "target": 18.17857,
+    "target_upside": 68.71062645011601,
+    "updated": "2026-09-30"
   },
   "TRT": {
     "analyst_count": 0,
