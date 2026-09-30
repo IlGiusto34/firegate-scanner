@@ -341,6 +341,15 @@
     "target_upside": null,
     "updated": "2026-09-25"
   },
+  "GLAS": {
+    "analyst_count": 3,
+    "analyst_score": 1.25,
+    "market_cap": 556502011.7978644,
+    "recommendation": "none",
+    "target": 16.0,
+    "target_upside": 170.95681625740897,
+    "updated": "2026-09-30"
+  },
   "GMEU": {
     "analyst_count": 0,
     "analyst_score": 0.0,
