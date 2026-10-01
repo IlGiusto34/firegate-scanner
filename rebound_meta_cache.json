@@ -240,7 +240,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-18"
+    "updated": "2026-10-01"
   },
   "CONI": {
     "analyst_count": 0,
@@ -458,6 +458,24 @@
     "target_upside": null,
     "updated": "2026-09-22"
   },
+  "LITZ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-01"
+  },
+  "LQDA": {
+    "analyst_count": 7,
+    "analyst_score": 2.75,
+    "market_cap": 2325025189.063053,
+    "recommendation": "buy",
+    "target": 81.85714,
+    "target_upside": 214.5931591083782,
+    "updated": "2026-10-01"
+  },
   "MAAS": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -475,6 +493,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-21"
+  },
+  "MF": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 25997857.946762085,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-01"
   },
   "MRNX": {
     "analyst_count": 0,
