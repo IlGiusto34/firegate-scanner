@@ -605,11 +605,11 @@
   "IREN": {
     "analyst_count": 18,
     "analyst_score": 2.25,
-    "market_cap": 16810541863.551422,
+    "market_cap": 15585019227.75711,
     "recommendation": "buy",
-    "target": 77.97222,
-    "target_upside": 82.73311460042181,
-    "updated": "2026-09-29"
+    "target": 77.69444,
+    "target_upside": 96.44611883691532,
+    "updated": "2026-10-01"
   },
   "ITUB": {
     "analyst_count": 8,
@@ -1054,12 +1054,12 @@
   },
   "RIG": {
     "analyst_count": 12,
-    "analyst_score": 1.75,
-    "market_cap": 6120502887.102797,
+    "analyst_score": 2.25,
+    "market_cap": 5757517072.505768,
     "recommendation": "buy",
     "target": 6.55417,
-    "target_upside": 19.820292504570382,
-    "updated": "2026-09-24"
+    "target_upside": 27.265436893203866,
+    "updated": "2026-10-01"
   },
   "RKLB": {
     "analyst_count": 19,
@@ -1086,7 +1086,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-30"
+    "updated": "2026-10-01"
   },
   "SCHD": {
     "analyst_count": 0,
@@ -1194,7 +1194,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-28"
+    "updated": "2026-10-01"
   },
   "SQQQ": {
     "analyst_count": 0,
