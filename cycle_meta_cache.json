@@ -983,11 +983,11 @@
   "PSKY": {
     "analyst_count": 16,
     "analyst_score": 0.45,
-    "market_cap": 11729943033.84733,
+    "market_cap": 11011897350.097816,
     "recommendation": "hold",
-    "target": 9.85625,
-    "target_upside": -5.726924916307996,
-    "updated": "2026-09-22"
+    "target": 9.92438,
+    "target_upside": 1.114416709118693,
+    "updated": "2026-10-01"
   },
   "PURR": {
     "analyst_count": 4,
@@ -1014,7 +1014,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-30"
+    "updated": "2026-10-01"
   },
   "QQQ": {
     "analyst_count": 0,
@@ -1284,7 +1284,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-25"
+    "updated": "2026-10-01"
   },
   "VEEE": {
     "analyst_count": 1,
