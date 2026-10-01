@@ -773,6 +773,15 @@
     "target_upside": 393.9924566088117,
     "updated": "2026-09-22"
   },
+  "VHC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 37085287.55670357,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-01"
+  },
   "VKTX": {
     "analyst_count": 19,
     "analyst_score": 3.25,
