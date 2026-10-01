@@ -224,6 +224,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "CCG": {
+    "analyst_count": 1,
+    "analyst_score": 1.25,
+    "market_cap": 12990633.666638374,
+    "recommendation": "none",
+    "target": 56.993202,
+    "target_upside": 999.1938669238187,
+    "updated": "2026-10-01"
+  },
   "CEGX": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -361,12 +370,12 @@
   },
   "GRML": {
     "analyst_count": 1,
-    "analyst_score": 1.25,
-    "market_cap": 39680891.64283943,
-    "recommendation": "none",
+    "analyst_score": 3.0,
+    "market_cap": 69190379.11052322,
+    "recommendation": "strong_buy",
     "target": 110.0,
-    "target_upside": 806.0955518945633,
-    "updated": "2026-09-23"
+    "target_upside": 1110.7870115575122,
+    "updated": "2026-10-01"
   },
   "HUTG": {
     "analyst_count": 0,
@@ -790,6 +799,15 @@
     "target": 6.0515666,
     "target_upside": 8.6457199281867,
     "updated": "2026-09-23"
+  },
+  "UMAL": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-01"
   },
   "VEEE": {
     "analyst_count": 1,
