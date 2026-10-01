@@ -243,13 +243,13 @@
     "updated": "2026-09-30"
   },
   "CIFR": {
-    "analyst_count": 21,
+    "analyst_count": 22,
     "analyst_score": 2.75,
-    "market_cap": 7460177386.271656,
+    "market_cap": 6312492619.148037,
     "recommendation": "strong_buy",
-    "target": 30.7381,
-    "target_upside": 70.90964692799555,
-    "updated": "2026-09-25"
+    "target": 30.93182,
+    "target_upside": 103.49881578947367,
+    "updated": "2026-10-01"
   },
   "CLRO": {
     "analyst_count": 0,
@@ -681,7 +681,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-30"
+    "updated": "2026-10-01"
   },
   "LQDA": {
     "analyst_count": 7,
