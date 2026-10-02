@@ -1313,6 +1313,15 @@
     "target_upside": null,
     "updated": "2026-10-01"
   },
+  "VALE": {
+    "analyst_count": 25,
+    "analyst_score": 1.75,
+    "market_cap": 57729420528.385864,
+    "recommendation": "buy",
+    "target": 16.696,
+    "target_upside": 23.08145963877628,
+    "updated": "2026-10-02"
+  },
   "VEEE": {
     "analyst_count": 1,
     "analyst_score": 1.0,
