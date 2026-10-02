@@ -366,7 +366,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-23"
+    "updated": "2026-10-02"
   },
   "F": {
     "analyst_count": 18,
@@ -902,11 +902,11 @@
   "ONDS": {
     "analyst_count": 9,
     "analyst_score": 2.75,
-    "market_cap": 4178021976.3904257,
+    "market_cap": 4306128447.998457,
     "recommendation": "strong_buy",
     "target": 19.41667,
-    "target_upside": 170.42715877437325,
-    "updated": "2026-10-01"
+    "target_upside": 162.56484110885734,
+    "updated": "2026-10-02"
   },
   "ONON": {
     "analyst_count": 30,
@@ -920,11 +920,11 @@
   "ORCL": {
     "analyst_count": 41,
     "analyst_score": 2.25,
-    "market_cap": 430245809823.2323,
+    "market_cap": 437718449053.82855,
     "recommendation": "buy",
     "target": 237.97415,
-    "target_upside": 67.67008384414852,
-    "updated": "2026-09-29"
+    "target_upside": 64.81345661056864,
+    "updated": "2026-10-02"
   },
   "ORCU": {
     "analyst_count": 0,
