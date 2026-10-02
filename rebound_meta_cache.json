@@ -1,4 +1,13 @@
 {
+  "AAOZ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-02"
+  },
   "ACMM": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -772,6 +781,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-22"
+  },
+  "SPCQ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-02"
   },
   "STX": {
     "analyst_count": 23,
