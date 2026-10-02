@@ -1,4 +1,10 @@
 {
+  "AAVE": {
+    "price": 185.99,
+    "product_id": "AAVE-USD",
+    "score": 13.0,
+    "time": "2026-10-02T05:01:03.861210+00:00"
+  },
   "ADA": {
     "price": 0.26214,
     "product_id": "ADA-USD",
