@@ -177,7 +177,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-01"
+    "updated": "2026-10-02"
   },
   "BITX": {
     "analyst_count": 0,
@@ -1091,11 +1091,11 @@
   "RKT": {
     "analyst_count": 14,
     "analyst_score": 2.25,
-    "market_cap": 33427539644.053688,
+    "market_cap": 34758409637.58914,
     "recommendation": "buy",
     "target": 17.7,
-    "target_upside": 49.93646759847521,
-    "updated": "2026-10-01"
+    "target_upside": 44.19551934826882,
+    "updated": "2026-10-02"
   },
   "RWM": {
     "analyst_count": 0,
@@ -1212,7 +1212,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-01"
+    "updated": "2026-10-02"
   },
   "SPY": {
     "analyst_count": 0,
@@ -1221,7 +1221,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-01"
+    "updated": "2026-10-02"
   },
   "SQQQ": {
     "analyst_count": 0,
