@@ -395,6 +395,15 @@
     "target_upside": null,
     "updated": "2026-09-22"
   },
+  "IART": {
+    "analyst_count": 9,
+    "analyst_score": 1.5,
+    "market_cap": 1076371494.9071426,
+    "recommendation": "none",
+    "target": 19.55556,
+    "target_upside": 41.50188133140376,
+    "updated": "2026-10-02"
+  },
   "IBO": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -421,6 +430,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-30"
+  },
+  "IREZ": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-02"
   },
   "JBLG": {
     "analyst_count": 0,
@@ -672,7 +690,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-30"
+    "updated": "2026-10-02"
   },
   "RPGL": {
     "analyst_count": 0,
@@ -754,6 +772,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-22"
+  },
+  "STX": {
+    "analyst_count": 23,
+    "analyst_score": 1.5,
+    "market_cap": 188249577239.08765,
+    "recommendation": "none",
+    "target": 1125.0,
+    "target_upside": 36.15732088867523,
+    "updated": "2026-10-02"
   },
   "SUPX": {
     "analyst_count": 0,
