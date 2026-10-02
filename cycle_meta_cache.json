@@ -55,12 +55,12 @@
   },
   "AGNC": {
     "analyst_count": 9,
-    "analyst_score": 0.75,
-    "market_cap": 10580422140.587643,
-    "recommendation": "none",
+    "analyst_score": 0.95,
+    "market_cap": 10526956675.890684,
+    "recommendation": "hold",
     "target": 11.05556,
-    "target_upside": 23.871820728291304,
-    "updated": "2026-10-01"
+    "target_upside": 24.639909808342743,
+    "updated": "2026-10-02"
   },
   "AKAM": {
     "analyst_count": 23,
