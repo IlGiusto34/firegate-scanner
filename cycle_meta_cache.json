@@ -177,7 +177,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-02"
+    "updated": "2026-10-05"
   },
   "BITX": {
     "analyst_count": 0,
@@ -746,6 +746,15 @@
     "target_upside": 9.457028490699315,
     "updated": "2026-09-28"
   },
+  "MI": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 3790617.883386612,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-05"
+  },
   "MRNA": {
     "analyst_count": 18,
     "analyst_score": -0.55,
@@ -1226,11 +1235,11 @@
   "SOFI": {
     "analyst_count": 22,
     "analyst_score": 1.45,
-    "market_cap": 20542425658.333515,
+    "market_cap": 20813655475.643013,
     "recommendation": "hold",
     "target": 20.35455,
-    "target_upside": 27.935575109993714,
-    "updated": "2026-10-02"
+    "target_upside": 26.30809804529941,
+    "updated": "2026-10-05"
   },
   "SOXL": {
     "analyst_count": 0,
@@ -1311,7 +1320,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-02"
+    "updated": "2026-10-05"
   },
   "TQQQ": {
     "analyst_count": 0,
