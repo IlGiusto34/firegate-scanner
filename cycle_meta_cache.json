@@ -1099,12 +1099,12 @@
   },
   "RIG": {
     "analyst_count": 12,
-    "analyst_score": 2.25,
-    "market_cap": 5757517072.505768,
+    "analyst_score": 1.75,
+    "market_cap": 6148424995.741782,
     "recommendation": "buy",
     "target": 6.55417,
-    "target_upside": 27.265436893203866,
-    "updated": "2026-10-01"
+    "target_upside": 19.0584922797457,
+    "updated": "2026-10-05"
   },
   "RIVN": {
     "analyst_count": 26,
@@ -1347,7 +1347,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-25"
+    "updated": "2026-10-05"
   },
   "TSLL": {
     "analyst_count": 0,
