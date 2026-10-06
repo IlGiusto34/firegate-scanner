@@ -101,11 +101,11 @@
   "APUS": {
     "analyst_count": 0,
     "analyst_score": 0.0,
-    "market_cap": 11978171.494374275,
+    "market_cap": 8986797.574863434,
     "recommendation": "none",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-25"
+    "updated": "2026-10-06"
   },
   "AUR": {
     "analyst_count": 12,
@@ -501,7 +501,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-05"
+    "updated": "2026-10-06"
   },
   "IALT": {
     "analyst_count": 0,
@@ -992,11 +992,11 @@
   "PBR": {
     "analyst_count": 14,
     "analyst_score": 1.25,
-    "market_cap": 154729238282.8084,
+    "market_cap": 154149244325.18613,
     "recommendation": "buy",
     "target": 22.95,
-    "target_upside": -4.4347282948157485,
-    "updated": "2026-10-05"
+    "target_upside": -4.035124398912815,
+    "updated": "2026-10-06"
   },
   "PBR.A": {
     "analyst_count": 0,
@@ -1415,11 +1415,11 @@
   "VALE": {
     "analyst_count": 25,
     "analyst_score": 1.75,
-    "market_cap": 61261707382.1586,
+    "market_cap": 59665796334.0336,
     "recommendation": "buy",
     "target": 16.696,
-    "target_upside": 15.984716915595708,
-    "updated": "2026-10-05"
+    "target_upside": 19.044563279857396,
+    "updated": "2026-10-06"
   },
   "VEEA": {
     "analyst_count": 0,
