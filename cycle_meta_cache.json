@@ -614,11 +614,11 @@
   "ITUB": {
     "analyst_count": 8,
     "analyst_score": -0.75,
-    "market_cap": 110439167916.25284,
+    "market_cap": 110935142510.26822,
     "recommendation": "none",
     "target": 8.875,
-    "target_upside": -11.427145708582831,
-    "updated": "2026-10-05"
+    "target_upside": -11.823149528067557,
+    "updated": "2026-10-06"
   },
   "IUSB": {
     "analyst_count": 0,
@@ -672,7 +672,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-09-29"
+    "updated": "2026-10-06"
   },
   "LGHL": {
     "analyst_count": 0,
@@ -927,13 +927,13 @@
     "updated": "2026-10-01"
   },
   "ONDS": {
-    "analyst_count": 9,
+    "analyst_count": 10,
     "analyst_score": 2.75,
-    "market_cap": 4425500456.867287,
+    "market_cap": 4282836362.2515426,
     "recommendation": "strong_buy",
-    "target": 19.41667,
-    "target_upside": 155.48250000000002,
-    "updated": "2026-10-05"
+    "target": 18.875,
+    "target_upside": 156.62814411964646,
+    "updated": "2026-10-06"
   },
   "ONON": {
     "analyst_count": 30,
@@ -1167,7 +1167,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-05"
+    "updated": "2026-10-06"
   },
   "SAIQ": {
     "analyst_count": 0,
