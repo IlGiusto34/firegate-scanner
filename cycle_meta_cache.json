@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8711524454.151402,
+    "market_cap": 8443426800.761449,
     "recommendation": "buy",
-    "target": 16.66522,
-    "target_upside": 26.63541033434651,
-    "updated": "2026-10-06"
+    "target": 16.53478,
+    "target_upside": 29.684549019607864,
+    "updated": "2026-10-07"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -1185,7 +1185,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-06"
+    "updated": "2026-10-07"
   },
   "SAIQ": {
     "analyst_count": 0,
