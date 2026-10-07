@@ -375,7 +375,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-06"
+    "updated": "2026-10-07"
   },
   "F": {
     "analyst_count": 18,
@@ -1133,6 +1133,15 @@
     "target_upside": 173.42034136546184,
     "updated": "2026-09-29"
   },
+  "QXO": {
+    "analyst_count": 18,
+    "analyst_score": 2.75,
+    "market_cap": 11298274177.204166,
+    "recommendation": "strong_buy",
+    "target": 28.94444,
+    "target_upside": 165.42356717102246,
+    "updated": "2026-10-07"
+  },
   "RGTI": {
     "analyst_count": 12,
     "analyst_score": 2.25,
@@ -1392,7 +1401,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-06"
+    "updated": "2026-10-07"
   },
   "TSLL": {
     "analyst_count": 0,
