@@ -177,7 +177,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-06"
+    "updated": "2026-10-07"
   },
   "BITX": {
     "analyst_count": 0,
@@ -784,12 +784,12 @@
   },
   "MRVL": {
     "analyst_count": 43,
-    "analyst_score": 1.75,
-    "market_cap": 267499422574.19235,
+    "analyst_score": 2.25,
+    "market_cap": 252769668228.79224,
     "recommendation": "strong_buy",
-    "target": 293.87738,
-    "target_upside": -1.3039427727028374,
-    "updated": "2026-10-06"
+    "target": 330.15643,
+    "target_upside": 17.330548349266152,
+    "updated": "2026-10-07"
   },
   "MSFT": {
     "analyst_count": 52,
@@ -1536,7 +1536,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-06"
+    "updated": "2026-10-07"
   },
   "XNDU": {
     "analyst_count": 3,
