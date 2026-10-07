@@ -254,11 +254,11 @@
   "CIFR": {
     "analyst_count": 22,
     "analyst_score": 2.75,
-    "market_cap": 6312492619.148037,
+    "market_cap": 6061523504.824013,
     "recommendation": "strong_buy",
-    "target": 30.93182,
-    "target_upside": 103.49881578947367,
-    "updated": "2026-10-01"
+    "target": 30.47727,
+    "target_upside": 108.60554414784396,
+    "updated": "2026-10-07"
   },
   "CLRO": {
     "analyst_count": 0,
@@ -713,11 +713,11 @@
   "MARA": {
     "analyst_count": 13,
     "analyst_score": 2.25,
-    "market_cap": 4215993360.141614,
+    "market_cap": 3932526961.3491898,
     "recommendation": "buy",
     "target": 18.68615,
-    "target_upside": 71.35396607060984,
-    "updated": "2026-10-05"
+    "target_upside": 83.55746561886053,
+    "updated": "2026-10-07"
   },
   "MBB": {
     "analyst_count": 0,
@@ -738,13 +738,13 @@
     "updated": "2026-09-28"
   },
   "MDT": {
-    "analyst_count": 24,
+    "analyst_count": 25,
     "analyst_score": 1.75,
-    "market_cap": 111771065314.94286,
+    "market_cap": 110760545210.75714,
     "recommendation": "buy",
-    "target": 104.83333,
-    "target_upside": 19.974055848020143,
-    "updated": "2026-10-06"
+    "target": 104.44,
+    "target_upside": 20.6143896523848,
+    "updated": "2026-10-07"
   },
   "MEDS": {
     "analyst_count": 0,
