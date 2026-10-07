@@ -856,12 +856,12 @@
   },
   "NKE": {
     "analyst_count": 36,
-    "analyst_score": 0.95,
-    "market_cap": 50114322383.50156,
+    "analyst_score": 0.45,
+    "market_cap": 50765329190.92653,
     "recommendation": "hold",
-    "target": 39.36111,
-    "target_upside": 16.64279152467032,
-    "updated": "2026-10-06"
+    "target": 38.15278,
+    "target_upside": 11.639444038039514,
+    "updated": "2026-10-07"
   },
   "NOK": {
     "analyst_count": 12,
@@ -1442,11 +1442,11 @@
   "VALE": {
     "analyst_count": 25,
     "analyst_score": 1.75,
-    "market_cap": 59665796334.0336,
+    "market_cap": 58112439829.31373,
     "recommendation": "buy",
-    "target": 16.696,
-    "target_upside": 19.044563279857396,
-    "updated": "2026-10-06"
+    "target": 16.596,
+    "target_upside": 21.49341142020498,
+    "updated": "2026-10-07"
   },
   "VEEA": {
     "analyst_count": 0,
