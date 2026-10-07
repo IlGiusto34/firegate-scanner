@@ -1250,6 +1250,15 @@
     "target_upside": 15.96914350919587,
     "updated": "2026-09-22"
   },
+  "SKYD": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 44320745192.38617,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-07"
+  },
   "SMCI": {
     "analyst_count": 16,
     "analyst_score": 0.25,
@@ -1289,11 +1298,11 @@
   "SOFI": {
     "analyst_count": 22,
     "analyst_score": 1.45,
-    "market_cap": 20645751185.71452,
+    "market_cap": 20148497547.09498,
     "recommendation": "hold",
-    "target": 20.35455,
-    "target_upside": 27.33531435720988,
-    "updated": "2026-10-06"
+    "target": 20.33182,
+    "target_upside": 30.373966014748312,
+    "updated": "2026-10-07"
   },
   "SOXL": {
     "analyst_count": 0,
