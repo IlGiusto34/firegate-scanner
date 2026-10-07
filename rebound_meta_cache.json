@@ -1,4 +1,13 @@
 {
+  "AAOX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-07"
+  },
   "AAOZ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -269,6 +278,15 @@
     "target_upside": null,
     "updated": "2026-09-21"
   },
+  "CRDX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-07"
+  },
   "CRMX": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -313,6 +331,15 @@
     "target": 15.5,
     "target_upside": 65.50987720234917,
     "updated": "2026-09-23"
+  },
+  "FCEL": {
+    "analyst_count": 10,
+    "analyst_score": 2.25,
+    "market_cap": 1422880846.7511444,
+    "recommendation": "buy",
+    "target": 21.1,
+    "target_upside": 18.5726327620118,
+    "updated": "2026-10-07"
   },
   "FOIL": {
     "analyst_count": 1,
@@ -709,6 +736,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-25"
+  },
+  "SBTU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-07"
   },
   "SCTX": {
     "analyst_count": 4,
