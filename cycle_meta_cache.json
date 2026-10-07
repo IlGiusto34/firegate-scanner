@@ -245,11 +245,11 @@
   "CDE": {
     "analyst_count": 11,
     "analyst_score": 2.25,
-    "market_cap": 18148193095.51695,
+    "market_cap": 16960927467.0,
     "recommendation": "buy",
     "target": 23.95455,
-    "target_upside": 35.64297848244622,
-    "updated": "2026-09-30"
+    "target_upside": 45.17909090909092,
+    "updated": "2026-10-07"
   },
   "CIFR": {
     "analyst_count": 22,
