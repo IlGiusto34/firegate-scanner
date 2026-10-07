@@ -622,12 +622,12 @@
   },
   "ITUB": {
     "analyst_count": 8,
-    "analyst_score": -0.75,
-    "market_cap": 110935142510.26822,
-    "recommendation": "none",
+    "analyst_score": 0.25,
+    "market_cap": 109888072186.89749,
+    "recommendation": "buy",
     "target": 8.875,
-    "target_upside": -11.823149528067557,
-    "updated": "2026-10-06"
+    "target_upside": -11.072144288577157,
+    "updated": "2026-10-07"
   },
   "IUSB": {
     "analyst_count": 0,
@@ -821,11 +821,11 @@
   "MU": {
     "analyst_count": 46,
     "analyst_score": 2.75,
-    "market_cap": 1226295138501.95,
+    "market_cap": 1226735480509.31,
     "recommendation": "strong_buy",
-    "target": 1520.0217,
-    "target_upside": 39.97869959802745,
-    "updated": "2026-10-02"
+    "target": 1535.5652,
+    "target_upside": 41.3769000598444,
+    "updated": "2026-10-07"
   },
   "MUU": {
     "analyst_count": 0,
