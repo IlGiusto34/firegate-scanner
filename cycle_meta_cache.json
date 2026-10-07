@@ -470,11 +470,11 @@
   "HL": {
     "analyst_count": 10,
     "analyst_score": 2.25,
-    "market_cap": 11460369074.096952,
+    "market_cap": 11076520801.731157,
     "recommendation": "buy",
     "target": 23.075,
-    "target_upside": 35.29756669598358,
-    "updated": "2026-09-30"
+    "target_upside": 39.9757355171368,
+    "updated": "2026-10-07"
   },
   "HLN": {
     "analyst_count": 5,
@@ -1181,11 +1181,11 @@
   "RKT": {
     "analyst_count": 14,
     "analyst_score": 2.25,
-    "market_cap": 32832894627.625103,
+    "market_cap": 32040032805.410553,
     "recommendation": "buy",
     "target": 17.27143,
-    "target_upside": 49.02010353753234,
-    "updated": "2026-10-06"
+    "target_upside": 52.77691287041131,
+    "updated": "2026-10-07"
   },
   "RWM": {
     "analyst_count": 0,
@@ -1366,6 +1366,15 @@
     "target": 15.5744505,
     "target_upside": 29.84118799499791,
     "updated": "2026-10-05"
+  },
+  "SXTC": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 8034221.339183807,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-07"
   },
   "T": {
     "analyst_count": 23,
