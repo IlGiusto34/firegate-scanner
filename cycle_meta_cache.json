@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8443426800.761449,
+    "market_cap": 8416948027.9735985,
     "recommendation": "buy",
-    "target": 16.53478,
-    "target_upside": 29.684549019607864,
-    "updated": "2026-10-07"
+    "target": 15.92609,
+    "target_upside": 25.254345261502166,
+    "updated": "2026-10-08"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -1554,7 +1554,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-07"
+    "updated": "2026-10-08"
   },
   "WBD": {
     "analyst_count": 12,
