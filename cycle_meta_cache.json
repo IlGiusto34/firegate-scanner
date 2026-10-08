@@ -776,11 +776,11 @@
   "MDT": {
     "analyst_count": 25,
     "analyst_score": 1.75,
-    "market_cap": 110760545210.75714,
+    "market_cap": 111476869065.30952,
     "recommendation": "buy",
     "target": 104.44,
-    "target_upside": 20.6143896523848,
-    "updated": "2026-10-07"
+    "target_upside": 19.839357429718874,
+    "updated": "2026-10-08"
   },
   "MEDS": {
     "analyst_count": 0,
@@ -1258,6 +1258,15 @@
     "target": 6.736,
     "target_upside": 7.175815433571997,
     "updated": "2026-10-05"
+  },
+  "SBUX": {
+    "analyst_count": 30,
+    "analyst_score": 1.75,
+    "market_cap": 103426498260.49805,
+    "recommendation": "buy",
+    "target": 111.56667,
+    "target_upside": 22.99269099327528,
+    "updated": "2026-10-08"
   },
   "SCHD": {
     "analyst_count": 0,
