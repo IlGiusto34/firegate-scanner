@@ -44,6 +44,15 @@
     "target_upside": null,
     "updated": "2026-09-23"
   },
+  "ALISU": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-08"
+  },
   "APMD": {
     "analyst_count": 3,
     "analyst_score": 3.0,
@@ -79,6 +88,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-28"
+  },
+  "ARGX": {
+    "analyst_count": 23,
+    "analyst_score": 2.75,
+    "market_cap": 50780504755.0,
+    "recommendation": "buy",
+    "target": 1180.2609,
+    "target_upside": 45.990586925598365,
+    "updated": "2026-10-08"
   },
   "ASTG": {
     "analyst_count": 0,
@@ -575,6 +593,15 @@
     "target_upside": null,
     "updated": "2026-09-30"
   },
+  "MXLL": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-08"
+  },
   "NBIZ": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -1015,6 +1042,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-22"
+  },
+  "XRPN": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 692452802.4101257,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-08"
   },
   "YDES": {
     "analyst_count": 0,
