@@ -305,6 +305,15 @@
     "target_upside": 31.870536109880355,
     "updated": "2026-09-18"
   },
+  "CMG": {
+    "analyst_count": 31,
+    "analyst_score": 2.25,
+    "market_cap": 40748820370.07904,
+    "recommendation": "buy",
+    "target": 43.75806,
+    "target_upside": 36.10594090202177,
+    "updated": "2026-10-08"
+  },
   "CONL": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -537,7 +546,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-07"
+    "updated": "2026-10-08"
   },
   "IALT": {
     "analyst_count": 0,
@@ -740,11 +749,11 @@
   "MARA": {
     "analyst_count": 13,
     "analyst_score": 2.25,
-    "market_cap": 3932526961.3491898,
+    "market_cap": 3885012091.8208246,
     "recommendation": "buy",
     "target": 18.68615,
-    "target_upside": 83.55746561886053,
-    "updated": "2026-10-07"
+    "target_upside": 85.8393833913476,
+    "updated": "2026-10-08"
   },
   "MBB": {
     "analyst_count": 0,
@@ -902,11 +911,11 @@
   "NU": {
     "analyst_count": 22,
     "analyst_score": 1.75,
-    "market_cap": 75358744923.16148,
+    "market_cap": 74948136202.87033,
     "recommendation": "buy",
     "target": 18.77273,
-    "target_upside": 20.33801282051282,
-    "updated": "2026-10-07"
+    "target_upside": 20.997292942313873,
+    "updated": "2026-10-08"
   },
   "NUAI": {
     "analyst_count": 2,
@@ -1230,7 +1239,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-07"
+    "updated": "2026-10-08"
   },
   "SAIQ": {
     "analyst_count": 0,
@@ -1287,13 +1296,13 @@
     "updated": "2026-09-22"
   },
   "SKYD": {
-    "analyst_count": 0,
-    "analyst_score": 0.0,
-    "market_cap": 44320745192.38617,
-    "recommendation": "",
-    "target": null,
-    "target_upside": null,
-    "updated": "2026-10-07"
+    "analyst_count": 16,
+    "analyst_score": 0.45,
+    "market_cap": 47018309699.555855,
+    "recommendation": "hold",
+    "target": 9.85938,
+    "target_upside": 5.7306166219839305,
+    "updated": "2026-10-08"
   },
   "SMCI": {
     "analyst_count": 15,
@@ -1334,11 +1343,11 @@
   "SOFI": {
     "analyst_count": 22,
     "analyst_score": 1.45,
-    "market_cap": 20148497547.09498,
+    "market_cap": 19928283831.31692,
     "recommendation": "hold",
     "target": 20.33182,
-    "target_upside": 30.373966014748312,
-    "updated": "2026-10-07"
+    "target_upside": 31.81082658022689,
+    "updated": "2026-10-08"
   },
   "SOXL": {
     "analyst_count": 0,
@@ -1590,7 +1599,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-01"
+    "updated": "2026-10-08"
   },
   "XLF": {
     "analyst_count": 0,
