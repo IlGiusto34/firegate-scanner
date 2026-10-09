@@ -694,12 +694,12 @@
   },
   "ITUB": {
     "analyst_count": 8,
-    "analyst_score": 1.25,
-    "market_cap": 108179674374.76822,
+    "analyst_score": 0.25,
+    "market_cap": 110053393547.81036,
     "recommendation": "buy",
     "target": 8.875,
-    "target_upside": -9.577177789098313,
-    "updated": "2026-10-08"
+    "target_upside": -11.116675012518773,
+    "updated": "2026-10-09"
   },
   "IUSB": {
     "analyst_count": 0,
