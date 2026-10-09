@@ -866,11 +866,11 @@
   "MRNA": {
     "analyst_count": 18,
     "analyst_score": -0.55,
-    "market_cap": 76400972095.37166,
+    "market_cap": 83071006385.30376,
     "recommendation": "hold",
-    "target": 119.55556,
-    "target_upside": -37.56889817232376,
-    "updated": "2026-09-30"
+    "target": 121.0,
+    "target_upside": -41.787741749254316,
+    "updated": "2026-10-09"
   },
   "MRVL": {
     "analyst_count": 43,
@@ -1437,7 +1437,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-08"
+    "updated": "2026-10-09"
   },
   "SPY": {
     "analyst_count": 0,
@@ -1536,7 +1536,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-07"
+    "updated": "2026-10-09"
   },
   "TSLL": {
     "analyst_count": 0,
