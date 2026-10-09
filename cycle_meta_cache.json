@@ -245,11 +245,11 @@
   "BMNR": {
     "analyst_count": 3,
     "analyst_score": 2.5,
-    "market_cap": 15005256550.75,
+    "market_cap": 14733804213.224785,
     "recommendation": "strong_buy",
     "target": 45.86667,
-    "target_upside": 84.27750100441943,
-    "updated": "2026-10-07"
+    "target_upside": 87.9011470708726,
+    "updated": "2026-10-09"
   },
   "BSV": {
     "analyst_count": 0,
@@ -771,7 +771,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-08"
+    "updated": "2026-10-09"
   },
   "LGHL": {
     "analyst_count": 0,
@@ -1293,7 +1293,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-08"
+    "updated": "2026-10-09"
   },
   "SAIQ": {
     "analyst_count": 0,
