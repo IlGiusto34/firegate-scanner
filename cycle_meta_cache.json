@@ -339,7 +339,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-08"
+    "updated": "2026-10-09"
   },
   "CORO": {
     "analyst_count": 0,
@@ -438,7 +438,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-08"
+    "updated": "2026-10-09"
   },
   "F": {
     "analyst_count": 18,
@@ -965,11 +965,11 @@
   "NU": {
     "analyst_count": 22,
     "analyst_score": 1.75,
-    "market_cap": 74948136202.87033,
+    "market_cap": 76720997134.81708,
     "recommendation": "buy",
     "target": 18.77273,
-    "target_upside": 20.997292942313873,
-    "updated": "2026-10-08"
+    "target_upside": 18.216183879093183,
+    "updated": "2026-10-09"
   },
   "NUAI": {
     "analyst_count": 2,
