@@ -134,6 +134,15 @@
     "target_upside": 49.65758448540707,
     "updated": "2026-10-09"
   },
+  "ASTX": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-09"
+  },
   "AUR": {
     "analyst_count": 12,
     "analyst_score": 2.25,
