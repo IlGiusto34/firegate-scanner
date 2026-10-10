@@ -17,6 +17,12 @@
     "score": 16.0,
     "time": "2026-09-29T12:03:10.140557+00:00"
   },
+  "ETH": {
+    "price": 2502.8,
+    "product_id": "ETH-USD",
+    "score": 11.5,
+    "time": "2026-10-10T14:35:12.817963+00:00"
+  },
   "FET": {
     "price": 0.26786,
     "product_id": "FET-USD",
@@ -28,6 +34,12 @@
     "product_id": "HBAR-USD",
     "score": 10.95,
     "time": "2026-09-28T15:44:24.861700+00:00"
+  },
+  "HYPE": {
+    "price": 86.19,
+    "product_id": "HYPE-USD",
+    "score": 11.8,
+    "time": "2026-10-10T14:35:12.497704+00:00"
   },
   "LIGHTER": {
     "price": 4.055,
