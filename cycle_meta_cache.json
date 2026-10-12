@@ -974,11 +974,11 @@
   "NU": {
     "analyst_count": 22,
     "analyst_score": 1.75,
-    "market_cap": 76720997134.81708,
+    "market_cap": 77556707894.4542,
     "recommendation": "buy",
     "target": 18.77273,
-    "target_upside": 18.216183879093183,
-    "updated": "2026-10-09"
+    "target_upside": 16.927623793210845,
+    "updated": "2026-10-12"
   },
   "NUAI": {
     "analyst_count": 2,
@@ -1302,7 +1302,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-09"
+    "updated": "2026-10-12"
   },
   "SAIQ": {
     "analyst_count": 0,
