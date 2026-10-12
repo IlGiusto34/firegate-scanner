@@ -848,11 +848,11 @@
   "MDT": {
     "analyst_count": 25,
     "analyst_score": 1.75,
-    "market_cap": 111476869065.30952,
+    "market_cap": 117220195458.87619,
     "recommendation": "buy",
     "target": 104.44,
-    "target_upside": 19.839357429718874,
-    "updated": "2026-10-08"
+    "target_upside": 13.96769969445657,
+    "updated": "2026-10-12"
   },
   "MEDS": {
     "analyst_count": 0,
@@ -864,13 +864,13 @@
     "updated": "2026-09-18"
   },
   "META": {
-    "analyst_count": 57,
+    "analyst_count": 58,
     "analyst_score": 1.75,
-    "market_cap": 1838917306321.274,
+    "market_cap": 1901484052987.7761,
     "recommendation": "strong_buy",
-    "target": 790.2688,
-    "target_upside": 9.457028490699315,
-    "updated": "2026-09-28"
+    "target": 798.9952,
+    "target_upside": 7.045082461381802,
+    "updated": "2026-10-12"
   },
   "MI": {
     "analyst_count": 0,
@@ -1307,11 +1307,11 @@
   "RKT": {
     "analyst_count": 14,
     "analyst_score": 2.25,
-    "market_cap": 32040032805.410553,
+    "market_cap": 31105591022.517727,
     "recommendation": "buy",
-    "target": 17.27143,
-    "target_upside": 52.77691287041131,
-    "updated": "2026-10-07"
+    "target": 16.87857,
+    "target_upside": 53.65106964041877,
+    "updated": "2026-10-12"
   },
   "RWM": {
     "analyst_count": 0,
