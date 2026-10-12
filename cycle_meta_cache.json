@@ -287,6 +287,15 @@
     "target_upside": 172.72727272727272,
     "updated": "2026-09-30"
   },
+  "CCC": {
+    "analyst_count": 10,
+    "analyst_score": 0.75,
+    "market_cap": 4511699342.766541,
+    "recommendation": "none",
+    "target": 8.75,
+    "target_upside": 14.229765013054818,
+    "updated": "2026-10-12"
+  },
   "CCL": {
     "analyst_count": 26,
     "analyst_score": 2.25,
@@ -871,6 +880,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-10-05"
+  },
+  "MNDR": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 6271324.5,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-12"
   },
   "MRNA": {
     "analyst_count": 18,
