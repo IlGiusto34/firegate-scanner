@@ -730,12 +730,12 @@
   },
   "ITUB": {
     "analyst_count": 8,
-    "analyst_score": 0.25,
-    "market_cap": 110053393547.81036,
+    "analyst_score": 1.25,
+    "market_cap": 109393609179.6346,
     "recommendation": "buy",
-    "target": 8.875,
-    "target_upside": -11.116675012518773,
-    "updated": "2026-10-09"
+    "target": 9.025,
+    "target_upside": -9.022177419354838,
+    "updated": "2026-10-13"
   },
   "IUSB": {
     "analyst_count": 0,
@@ -839,11 +839,11 @@
   "MARA": {
     "analyst_count": 13,
     "analyst_score": 2.25,
-    "market_cap": 3737445772.1557436,
+    "market_cap": 3505666046.5942564,
     "recommendation": "buy",
-    "target": 18.68615,
-    "target_upside": 93.23836608066185,
-    "updated": "2026-10-09"
+    "target": 18.60923,
+    "target_upside": 105.06038567493117,
+    "updated": "2026-10-13"
   },
   "MBB": {
     "analyst_count": 0,
@@ -1581,7 +1581,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-12"
+    "updated": "2026-10-13"
   },
   "TSLL": {
     "analyst_count": 0,
