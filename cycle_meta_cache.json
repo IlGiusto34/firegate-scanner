@@ -222,7 +222,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-12"
+    "updated": "2026-10-13"
   },
   "BITX": {
     "analyst_count": 0,
@@ -875,11 +875,11 @@
   "META": {
     "analyst_count": 58,
     "analyst_score": 1.75,
-    "market_cap": 1901484052987.7761,
+    "market_cap": 1940448272650.1084,
     "recommendation": "strong_buy",
     "target": 798.9952,
-    "target_upside": 7.045082461381802,
-    "updated": "2026-10-12"
+    "target_upside": 4.896310883549937,
+    "updated": "2026-10-13"
   },
   "MI": {
     "analyst_count": 0,
@@ -1329,7 +1329,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-12"
+    "updated": "2026-10-13"
   },
   "SAIQ": {
     "analyst_count": 0,
@@ -1432,12 +1432,12 @@
   },
   "SNAP": {
     "analyst_count": 35,
-    "analyst_score": 0.95,
-    "market_cap": 10815209335.982964,
+    "analyst_score": 0.45,
+    "market_cap": 11440952295.880745,
     "recommendation": "hold",
     "target": 7.4,
-    "target_upside": 15.80594679186229,
-    "updated": "2026-10-12"
+    "target_upside": 9.386548410938666,
+    "updated": "2026-10-13"
   },
   "SOFI": {
     "analyst_count": 22,
@@ -1473,7 +1473,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-09"
+    "updated": "2026-10-13"
   },
   "SPY": {
     "analyst_count": 0,
