@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8367234121.016594,
+    "market_cap": 8195188069.136449,
     "recommendation": "buy",
     "target": 15.92609,
-    "target_upside": 26.04740799366838,
-    "updated": "2026-10-12"
+    "target_upside": 28.59176423092451,
+    "updated": "2026-10-13"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -485,6 +485,15 @@
     "target_upside": 46.989060489060485,
     "updated": "2026-09-17"
   },
+  "FLYE": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 8790398.983623505,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-13"
+  },
   "FXI": {
     "analyst_count": 0,
     "analyst_score": 0.0,
@@ -609,7 +618,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-09"
+    "updated": "2026-10-13"
   },
   "IALT": {
     "analyst_count": 0,
@@ -1001,11 +1010,11 @@
   "NU": {
     "analyst_count": 22,
     "analyst_score": 1.75,
-    "market_cap": 77556707894.4542,
+    "market_cap": 76059192383.12656,
     "recommendation": "buy",
     "target": 18.77273,
-    "target_upside": 16.927623793210845,
-    "updated": "2026-10-12"
+    "target_upside": 19.22978723404256,
+    "updated": "2026-10-13"
   },
   "NUAI": {
     "analyst_count": 2,
