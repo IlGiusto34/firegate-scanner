@@ -1332,13 +1332,13 @@
     "updated": "2026-10-06"
   },
   "RKT": {
-    "analyst_count": 14,
-    "analyst_score": 2.25,
-    "market_cap": 31105591022.517727,
-    "recommendation": "buy",
-    "target": 16.87857,
-    "target_upside": 53.65106964041877,
-    "updated": "2026-10-12"
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-13"
   },
   "RWM": {
     "analyst_count": 0,
