@@ -1385,6 +1385,15 @@
     "target_upside": null,
     "updated": "2026-09-28"
   },
+  "SCMB": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": null,
+    "recommendation": "",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-13"
+  },
   "SDEV": {
     "analyst_count": 0,
     "analyst_score": 0.0,
