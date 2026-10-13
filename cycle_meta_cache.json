@@ -1178,6 +1178,15 @@
     "target_upside": -1.4255440552016996,
     "updated": "2026-10-07"
   },
+  "PFAI": {
+    "analyst_count": 0,
+    "analyst_score": 0.0,
+    "market_cap": 57620755.80654144,
+    "recommendation": "none",
+    "target": null,
+    "target_upside": null,
+    "updated": "2026-10-13"
+  },
   "PLTD": {
     "analyst_count": 0,
     "analyst_score": 0.0,
