@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 8195188069.136449,
+    "market_cap": 7972765872.675513,
     "recommendation": "buy",
     "target": 15.92609,
-    "target_upside": 28.59176423092451,
-    "updated": "2026-10-13"
+    "target_upside": 32.22158572021585,
+    "updated": "2026-10-14"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -1027,12 +1027,12 @@
   },
   "NU": {
     "analyst_count": 22,
-    "analyst_score": 1.75,
-    "market_cap": 76059192383.12656,
+    "analyst_score": 2.25,
+    "market_cap": 72170486538.42236,
     "recommendation": "buy",
     "target": 18.77273,
-    "target_upside": 19.22978723404256,
-    "updated": "2026-10-13"
+    "target_upside": 25.612111073937772,
+    "updated": "2026-10-14"
   },
   "NUAI": {
     "analyst_count": 2,
@@ -1545,7 +1545,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-13"
+    "updated": "2026-10-14"
   },
   "SPY": {
     "analyst_count": 0,
@@ -1793,11 +1793,11 @@
   "WULF": {
     "analyst_count": 25,
     "analyst_score": 2.75,
-    "market_cap": 6314448474.195989,
+    "market_cap": 6030036480.5791445,
     "recommendation": "strong_buy",
     "target": 33.08,
-    "target_upside": 161.2954186413902,
-    "updated": "2026-10-13"
+    "target_upside": 173.72776168804302,
+    "updated": "2026-10-14"
   },
   "XLE": {
     "analyst_count": 0,
