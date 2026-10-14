@@ -848,11 +848,11 @@
   "MARA": {
     "analyst_count": 13,
     "analyst_score": 2.25,
-    "market_cap": 3505666046.5942564,
+    "market_cap": 3181174578.1696615,
     "recommendation": "buy",
     "target": 18.60923,
-    "target_upside": 105.06038567493117,
-    "updated": "2026-10-13"
+    "target_upside": 126.11458080194411,
+    "updated": "2026-10-14"
   },
   "MBB": {
     "analyst_count": 0,
@@ -1554,7 +1554,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-02"
+    "updated": "2026-10-14"
   },
   "SPYM": {
     "analyst_count": 0,
