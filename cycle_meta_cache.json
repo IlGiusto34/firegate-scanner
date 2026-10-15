@@ -2,11 +2,11 @@
   "AAL": {
     "analyst_count": 23,
     "analyst_score": 2.25,
-    "market_cap": 7972765872.675513,
+    "market_cap": 7890748153.317052,
     "recommendation": "buy",
     "target": 15.92609,
-    "target_upside": 32.22158572021585,
-    "updated": "2026-10-14"
+    "target_upside": 33.55211740041928,
+    "updated": "2026-10-15"
   },
   "AAPL": {
     "analyst_count": 39,
@@ -1037,11 +1037,11 @@
   "NU": {
     "analyst_count": 22,
     "analyst_score": 2.25,
-    "market_cap": 72170486538.42236,
+    "market_cap": 72375793202.01979,
     "recommendation": "buy",
     "target": 18.77273,
-    "target_upside": 25.612111073937772,
-    "updated": "2026-10-14"
+    "target_upside": 25.2768101434768,
+    "updated": "2026-10-15"
   },
   "NUAI": {
     "analyst_count": 2,
@@ -1361,11 +1361,11 @@
   "RKT": {
     "analyst_count": 14,
     "analyst_score": 2.25,
-    "market_cap": 29137600404.071415,
+    "market_cap": 30992325433.696312,
     "recommendation": "buy",
     "target": 16.12857,
-    "target_upside": 56.664108790675094,
-    "updated": "2026-10-14"
+    "target_upside": 47.36016445865692,
+    "updated": "2026-10-15"
   },
   "RWM": {
     "analyst_count": 0,
@@ -1374,7 +1374,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "S": {
     "analyst_count": 29,
@@ -1459,12 +1459,12 @@
   },
   "SKYD": {
     "analyst_count": 16,
-    "analyst_score": 1.45,
-    "market_cap": 34891872746.72766,
+    "analyst_score": 0.95,
+    "market_cap": 37387750322.76117,
     "recommendation": "hold",
-    "target": 9.42188,
-    "target_upside": 36.35137481910273,
-    "updated": "2026-10-14"
+    "target": 8.87125,
+    "target_upside": 19.639244774106544,
+    "updated": "2026-10-15"
   },
   "SLV": {
     "analyst_count": 0,
