@@ -222,7 +222,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "BITX": {
     "analyst_count": 0,
@@ -298,12 +298,12 @@
   },
   "CCC": {
     "analyst_count": 10,
-    "analyst_score": 0.75,
-    "market_cap": 4511699342.766541,
-    "recommendation": "none",
+    "analyst_score": 1.75,
+    "market_cap": 4476359694.229088,
+    "recommendation": "buy",
     "target": 8.75,
-    "target_upside": 14.229765013054818,
-    "updated": "2026-10-12"
+    "target_upside": 15.05588428665352,
+    "updated": "2026-10-15"
   },
   "CCL": {
     "analyst_count": 26,
@@ -324,13 +324,13 @@
     "updated": "2026-10-14"
   },
   "CIFR": {
-    "analyst_count": 22,
+    "analyst_count": 21,
     "analyst_score": 2.75,
-    "market_cap": 4384799403.776178,
+    "market_cap": 3693732103.8477745,
     "recommendation": "strong_buy",
-    "target": 30.36364,
-    "target_upside": 187.12661938534282,
-    "updated": "2026-10-14"
+    "target": 30.14286,
+    "target_upside": 238.68382022471906,
+    "updated": "2026-10-15"
   },
   "CLRO": {
     "analyst_count": 0,
@@ -398,11 +398,11 @@
   "CRWV": {
     "analyst_count": 38,
     "analyst_score": 2.25,
-    "market_cap": 36555845307.29755,
+    "market_cap": 33254898407.69632,
     "recommendation": "buy",
-    "target": 141.47368,
-    "target_upside": 113.7710486551828,
-    "updated": "2026-10-14"
+    "target": 140.76315,
+    "target_upside": 133.47677890197377,
+    "updated": "2026-10-15"
   },
   "CTVA": {
     "analyst_count": 3,
@@ -439,6 +439,15 @@
     "target": null,
     "target_upside": null,
     "updated": "2026-09-22"
+  },
+  "ERIC": {
+    "analyst_count": 6,
+    "analyst_score": -2.25,
+    "market_cap": 33881874741.598564,
+    "recommendation": "underperform",
+    "target": 9.13333,
+    "target_upside": -12.47407762338284,
+    "updated": "2026-10-15"
   },
   "ERY": {
     "analyst_count": 0,
@@ -636,7 +645,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "IDEF": {
     "analyst_count": 0,
@@ -685,21 +694,21 @@
   },
   "INTC": {
     "analyst_count": 43,
-    "analyst_score": 1.75,
-    "market_cap": 527659522930.975,
+    "analyst_score": 2.25,
+    "market_cap": 482391789952.12915,
     "recommendation": "buy",
     "target": 118.04651,
-    "target_upside": 17.576205179282866,
-    "updated": "2026-10-14"
+    "target_upside": 28.57696329375885,
+    "updated": "2026-10-15"
   },
   "IONQ": {
     "analyst_count": 14,
     "analyst_score": 2.75,
-    "market_cap": 13211676445.98935,
+    "market_cap": 12476152557.429398,
     "recommendation": "strong_buy",
-    "target": 66.63214,
-    "target_upside": 104.26774984671985,
-    "updated": "2026-10-14"
+    "target": 64.06071,
+    "target_upside": 107.9218111002921,
+    "updated": "2026-10-15"
   },
   "IOVA": {
     "analyst_count": 10,
@@ -731,11 +740,11 @@
   "IREN": {
     "analyst_count": 18,
     "analyst_score": 2.25,
-    "market_cap": 12533035419.897156,
+    "market_cap": 10523336164.775711,
     "recommendation": "buy",
     "target": 78.13889,
-    "target_upside": 145.68115076245874,
-    "updated": "2026-10-14"
+    "target_upside": 192.60022467702683,
+    "updated": "2026-10-15"
   },
   "ITUB": {
     "analyst_count": 8,
@@ -798,7 +807,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "KWEB": {
     "analyst_count": 0,
@@ -965,11 +974,11 @@
   "MU": {
     "analyst_count": 46,
     "analyst_score": 2.75,
-    "market_cap": 1066932088916.0,
+    "market_cap": 1001501865230.1941,
     "recommendation": "strong_buy",
     "target": 1560.5652,
-    "target_upside": 65.46836033590635,
-    "updated": "2026-10-13"
+    "target_upside": 76.29521012200631,
+    "updated": "2026-10-15"
   },
   "MUU": {
     "analyst_count": 0,
@@ -978,16 +987,16 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-13"
+    "updated": "2026-10-15"
   },
   "NBIS": {
     "analyst_count": 20,
     "analyst_score": 2.25,
-    "market_cap": 50540604573.94354,
+    "market_cap": 45212240641.87097,
     "recommendation": "buy",
     "target": 283.6,
-    "target_upside": 52.64545992787557,
-    "updated": "2026-10-14"
+    "target_upside": 70.58133589967221,
+    "updated": "2026-10-15"
   },
   "NCLH": {
     "analyst_count": 25,
@@ -1010,20 +1019,20 @@
   "NKE": {
     "analyst_count": 36,
     "analyst_score": 0.45,
-    "market_cap": 52617064134.1243,
+    "market_cap": 54904441090.62514,
     "recommendation": "hold",
-    "target": 38.04167,
-    "target_upside": 7.386506704304896,
-    "updated": "2026-10-13"
+    "target": 37.66667,
+    "target_upside": 1.9119859307359377,
+    "updated": "2026-10-15"
   },
   "NOK": {
     "analyst_count": 12,
     "analyst_score": 2.25,
-    "market_cap": 54502803239.38792,
+    "market_cap": 51230399059.85547,
     "recommendation": "buy",
     "target": 14.96667,
-    "target_upside": 53.81983556012333,
-    "updated": "2026-10-14"
+    "target_upside": 63.65959540732642,
+    "updated": "2026-10-15"
   },
   "NU": {
     "analyst_count": 22,
@@ -1046,11 +1055,11 @@
   "NVDA": {
     "analyst_count": 59,
     "analyst_score": 2.75,
-    "market_cap": 5425589488952.637,
+    "market_cap": 5204644217880.249,
     "recommendation": "strong_buy",
     "target": 328.71695,
-    "target_upside": 46.30124396377151,
-    "updated": "2026-10-14"
+    "target_upside": 52.49440990907404,
+    "updated": "2026-10-15"
   },
   "NVDL": {
     "analyst_count": 0,
@@ -1091,11 +1100,11 @@
   "ONDS": {
     "analyst_count": 10,
     "analyst_score": 2.75,
-    "market_cap": 3738383372.0061703,
+    "market_cap": 3496727774.1342554,
     "recommendation": "strong_buy",
     "target": 18.875,
-    "target_upside": 194.0031152647975,
-    "updated": "2026-10-14"
+    "target_upside": 214.58333333333334,
+    "updated": "2026-10-15"
   },
   "ONON": {
     "analyst_count": 30,
@@ -1284,7 +1293,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "QUBT": {
     "analyst_count": 6,
@@ -1341,13 +1350,13 @@
     "updated": "2026-10-02"
   },
   "RKLB": {
-    "analyst_count": 20,
+    "analyst_count": 18,
     "analyst_score": 2.25,
-    "market_cap": 49890210293.312836,
+    "market_cap": 33198939137.859406,
     "recommendation": "buy",
-    "target": 109.15,
-    "target_upside": 39.90002563445272,
-    "updated": "2026-10-06"
+    "target": 103.38889,
+    "target_upside": 98.93956128535694,
+    "updated": "2026-10-15"
   },
   "RKT": {
     "analyst_count": 14,
@@ -1468,12 +1477,12 @@
   },
   "SMCI": {
     "analyst_count": 15,
-    "analyst_score": 0.45,
-    "market_cap": 26149841622.950047,
+    "analyst_score": 1.45,
+    "market_cap": 21791540584.340454,
     "recommendation": "hold",
     "target": 42.26667,
-    "target_upside": 4.6204702970297,
-    "updated": "2026-10-12"
+    "target_upside": 27.385985533453884,
+    "updated": "2026-10-15"
   },
   "SMMT": {
     "analyst_count": 13,
@@ -1509,16 +1518,16 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "SOFI": {
     "analyst_count": 23,
     "analyst_score": 1.45,
-    "market_cap": 18521118643.23799,
+    "market_cap": 18475913878.975983,
     "recommendation": "hold",
     "target": 20.36087,
-    "target_upside": 41.93705123736491,
-    "updated": "2026-10-14"
+    "target_upside": 42.33393918210415,
+    "updated": "2026-10-15"
   },
   "SOXL": {
     "analyst_count": 0,
@@ -1527,7 +1536,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "SOXS": {
     "analyst_count": 0,
@@ -1536,7 +1545,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "SPDN": {
     "analyst_count": 0,
@@ -1545,7 +1554,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "SPY": {
     "analyst_count": 0,
@@ -1572,7 +1581,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "SRZN": {
     "analyst_count": 5,
@@ -1617,7 +1626,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "TQQQ": {
     "analyst_count": 0,
@@ -1626,7 +1635,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "TSLA": {
     "analyst_count": 37,
@@ -1653,7 +1662,7 @@
     "recommendation": "",
     "target": null,
     "target_upside": null,
-    "updated": "2026-10-14"
+    "updated": "2026-10-15"
   },
   "UMC": {
     "analyst_count": 3,
@@ -1793,11 +1802,11 @@
   "WULF": {
     "analyst_count": 25,
     "analyst_score": 2.75,
-    "market_cap": 6030036480.5791445,
+    "market_cap": 5246655809.9623,
     "recommendation": "strong_buy",
     "target": 33.08,
-    "target_upside": 173.72776168804302,
-    "updated": "2026-10-14"
+    "target_upside": 214.59819305753683,
+    "updated": "2026-10-15"
   },
   "XLE": {
     "analyst_count": 0,
