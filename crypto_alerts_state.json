@@ -11,18 +11,6 @@
     "score": 10.75,
     "time": "2026-10-11T16:04:43.208394+00:00"
   },
-  "ETH": {
-    "price": 2502.8,
-    "product_id": "ETH-USD",
-    "score": 11.5,
-    "time": "2026-10-10T14:35:12.817963+00:00"
-  },
-  "HYPE": {
-    "price": 86.19,
-    "product_id": "HYPE-USD",
-    "score": 11.8,
-    "time": "2026-10-10T14:35:12.497704+00:00"
-  },
   "NEAR": {
     "price": 5.7152,
     "product_id": "NEAR-USD",
