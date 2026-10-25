@@ -1,10 +1,4 @@
 {
-  "BTC": {
-    "price": 83710.51,
-    "product_id": "BTC-USD",
-    "score": 10.75,
-    "time": "2026-10-11T16:04:43.208394+00:00"
-  },
   "NEAR": {
     "price": 5.7152,
     "product_id": "NEAR-USD",
@@ -22,12 +16,6 @@
     "product_id": "SUI-USD",
     "score": 12.15,
     "time": "2026-10-15T15:09:10.669598+00:00"
-  },
-  "XRP": {
-    "price": 1.4129,
-    "product_id": "XRP-USD",
-    "score": 11.25,
-    "time": "2026-10-11T15:54:53.342678+00:00"
   },
   "ZEC": {
     "price": 1329.6,
