@@ -1,4 +1,10 @@
 {
+  "GROVE": {
+    "price": 0.01941,
+    "product_id": "GROVE-USD",
+    "score": 10.25,
+    "time": "2026-10-28T13:59:21.026946+00:00"
+  },
   "SUI": {
     "price": 1.0146,
     "product_id": "SUI-USD",
