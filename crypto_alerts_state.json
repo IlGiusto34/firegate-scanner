@@ -1,4 +1,10 @@
 {
+  "HYPE": {
+    "price": 61.25,
+    "product_id": "HYPE-USD",
+    "score": 11.0,
+    "time": "2026-11-25T19:19:56.745108+00:00"
+  },
   "NEAR": {
     "price": 3.3274,
     "product_id": "NEAR-USD",
